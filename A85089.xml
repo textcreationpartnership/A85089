@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fallacies of Mr. VVilliam Prynne, discovered and confuted: in a short view of his late bookes intituled, The soveraignty of Parliaments, Opening of the great seale, &amp;c. Wherein is laid open his false quotations, calumniating falsehoods, wresting of the scriptures, points of popery, grosse absurdities, meere contradictions, hainous treasons, and plaine betraying of the cause. written in answer to a letter, sent by J.F. to his friend.</title>
+         </titleStmt>
+         <extent>Approx. 127 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85089</idno><idno type="EEBO-CITATION">99871099</idno>
+  <idno type="VID">159146</idno>
+  <idno type="EEBO-PROQUEST">2240944964</idno>
+  
+            <idno type="STC">Wing F337</idno>
+            <idno type="STC">Thomason E253_3</idno>
+            <idno type="STC">ESTC R212490</idno>
+            <idno type="PROQUEST">99871099</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871099e"/>
+            <note>(EEBO-TCP ; phase 2, no. A85089)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159146)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 43:E253[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fallacies of Mr. VVilliam Prynne, discovered and confuted: in a short view of his late bookes intituled, The soveraignty of Parliaments, Opening of the great seale, &amp;c. Wherein is laid open his false quotations, calumniating falsehoods, wresting of the scriptures, points of popery, grosse absurdities, meere contradictions, hainous treasons, and plaine betraying of the cause. written in answer to a letter, sent by J.F. to his friend.</title>
+               </titleStmt>
+               <extent>[2], 33, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield,</publisher>
+                  <pubPlace>Oxford [i.e. London] :</pubPlace>
+                  <date>MDCXLIV [1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The imprint is false. "A London counterfeit"--Madan.</note>
+                  <note>The roman numeral date is made with turned c's.</note>
+                  <note>Annotation on Thomason copy: "march 2d 1643"; the V in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Prynne, William, 1600-1669 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159146:1"/>
+            <p>THE FALLACIES OF M<seg rend="sup">r</seg>. William Prynne, Discovered and Confuted: IN A short View of his late Bookes intituled, The Soveraignty of Parliaments, Opening of the Great Seale, &amp;c.</p>
+            <p>
+               <hi>Wherein is laid open his false Quotations, calumnia<g ref="char:EOLhyphen"/>ting Falshoods, wresting of the Scriptures, Points of Popery, grosse Absurdities, meere Contradictions, hainous Treasons, and plaine Betraying of the Cause.</hi>
+            </p>
+            <p>Written in Answer to a Letter, sent by J. F. to his Friend.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by LEONAR<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> LICHFIELD. MDCXLIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159146:2"/>
+            <pb n="1" facs="tcp:159146:2"/>
+            <head>A LETTER, and an ANSWER thereunto; concerning Mr. <hi>Prynne</hi> his vehement per<g ref="char:EOLhyphen"/>swasion to this Civill VVar. With an overlie Survey of Mr. PRYNNES Books.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou are pleased to question me concerning the assistance I give unto the Parliament in these Warres. You know my educa<g ref="char:EOLhyphen"/>tion hath beene sufficient neither in the Schooles of Divini<g ref="char:EOLhyphen"/>tie, nor Law; wherefore I cannot render you any Scholler-like account. Notwithstanding, I must tell you, my consci<g ref="char:EOLhyphen"/>ence hath sufficient information from other learned, judici<g ref="char:EOLhyphen"/>ous, and godly men. And although I goe upon other mens legges, and see with other mens eyes; yet the one are so strong, and the other so cleere, that I can neither fall nor erre. It is the theame which our religious Preachers presse daily upon our Congregations, and that under paine of Damnation. Yet, Mr. <hi>Prynnes</hi> bookes are more prevalent than their Sermons. Now, I so depend on him, and them, that I am confident I doe service unto God, by my service in these Warres. Our Preachers indeed have perswaded the peo<g ref="char:EOLhyphen"/>ple effectually to this pious Warre; but perswasion it selfe seemeth to dwell in the lippes of Mr. <hi>Prynne.</hi> Though the people yeeld credence to their Prea<g ref="char:EOLhyphen"/>chers, yet <hi>Semper excipiunt Platonem,</hi> Mr. <hi>Prynne</hi> is beleeved most of any of them. <hi>Malint errare cum Platone, quam recte sentire cum caeteris;</hi> many judicious persons (so supposed by themselves, and some others too) submit their judgement to Mr. <hi>Prynnes</hi> Bookes, without any further disquisition. And that meritoriously, for he is the verie <hi>Oracle</hi> of our times. He hath gi<g ref="char:EOLhyphen"/>ven such <hi>full Answers</hi> to all the Objections of moment, which the King,<note place="margin">Mr. Prynnes Soveraignty of Parliaments, part <hi>4.</hi> pag. <hi>33.</hi>
+               </note> or anie opposites to the Parliament have made as shall abundantly cleare the Par<g ref="char:EOLhyphen"/>liaments authoritie, innocence, integritie, against all clamorous malignant ca<g ref="char:EOLhyphen"/>lumnies, <hi>Convince</hi> their <hi>Iudgements, Satisfie</hi> their <hi>Consciences,</hi> and put them to an <hi>everlasting silence.</hi> Copiously refuting the fond erroneous fancies of all <hi>Illiterate</hi> flattering <hi>Court-Doctors, Theologasters, Lawyers, Statists,</hi>
+               <note place="margin">Mr. Prynnes Soveraignty of Parliaments, part <hi>4.</hi> Epist. to the Reader.</note> who without any <hi>shadow</hi> of <hi>Truth</hi> or <hi>Reason,</hi> audaciously averre the contrarie; a<g ref="char:EOLhyphen"/>gainst whom the contrarie constant practice and resolution of most lawfull Kingdomes, that are or have beene from <hi>Adams</hi> time till now, shall unani<g ref="char:EOLhyphen"/>mously rise in judgement, and passe a most Catholike and irreversible sentence
+<pb n="2" facs="tcp:159146:3"/> on them. Yea (quoth he) I have defended nothing but <hi>undoubted truth</hi> of reall <hi>State-policie,</hi> and <hi>true Theologie</hi> (almost <hi>forgotten</hi> in the world, yea cried downe by <hi>Sycophants</hi> and <hi>Malignants,</hi> in these latter ages;) the contra<g ref="char:EOLhyphen"/>rie defended by sundry <hi>injudicious Lawyers,</hi> and <hi>ignorant Divines,</hi> who con<g ref="char:EOLhyphen"/>fidently vent their <hi>grand Absurdities</hi> and <hi>Vntruths,</hi>
+               <note place="margin">Part <hi>2.</hi> pag. <hi>79</hi> Part <hi>3.</hi> Title page. Part <hi>3.</hi> pag. <hi>143. 150.</hi> Part <hi>4.</hi> p. <hi>149.</hi>
+               </note> to the ruine of divers Kingdomes and States: which now I hope they will ingenuously <hi>acknow<g ref="char:EOLhyphen"/>ledge</hi> and <hi>recant,</hi> with reall <hi>griefe</hi> and <hi>shame.</hi>
+            </p>
+            <p>Thus confident is he, not in one or two places, but throughout all his five Bookes. Wherefore many zealous persons build their Conscience upon the confidence of this most learned and religiious Gentleman. And so doth</p>
+            <closer>
+               <signed>Your loving friend, J. F.</signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <head>The ANSWER.</head>
+            <p>
+               <seg rend="decorInit">W</seg>EE know, and acknowledge Mr. <hi>Prynne</hi> to be a <hi>man of much reading:</hi>
+               <note place="margin">Mr. Prynne part <hi>4.</hi> p. <hi>149.</hi>
+               </note> yet a <hi>man,</hi> and therefore subject to <hi>errour;</hi> and <hi>much reading</hi> doth not infallibly create an <hi>irrefragable</hi> judge<g ref="char:EOLhyphen"/>ment; although he layeth claime to this no common Preroga<g ref="char:EOLhyphen"/>tive. I will presume to say of him, what hee saith of others, (<hi>The Bishop of Ossery, Doctor Ferne,</hi> the <hi>Authour of the ne<g ref="char:EOLhyphen"/>cessitie of subjection,</hi> and other <hi>ignorant Pamphleters) That the inconsiderate following of reputed learned mens mistakes, without due examination of their erronious tenents, hath engaged many in this blinde Polemicall.</hi> That therefore we may not mistake by following this so reputed a learned man, I will give his Tenents their due examination.<note place="margin">Mr. Prynnes Book Epist. to the Reader, P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt <hi>4.</hi>
+               </note> And I doe accept his owne offer. <hi>I shall not</hi> (quoth Mr. <hi>Prynne) begge any mans beleefe of any truth newly discovered, further then his owne judgement and conscience shall convince him.</hi> Therefore also I will presume to peruse some passages in his Pamphlets; if they <hi>convince</hi> your <hi>Iudgement</hi> and <hi>Conscience,</hi> in Gods holy name submit your assent. But I conjecture I shall make it appeare out of his owne Bookes, that as he pro<g ref="char:EOLhyphen"/>fesseth himselfe no Papist, so we shall descrie him to be no Pope, that he doth not determine <hi>è Cathedra,</hi> dictate un-erring Conclusions. So that people of Religion and Reason are not obliged to fix their beleefe upon his <hi>Truths new<g ref="char:EOLhyphen"/>ly discovered.</hi>
+            </p>
+            <p>I presume it would weaken the strong confidence that many have in Mr. <hi>Prynnes</hi> Writings; if it may be made appeare, that he doth deliver in them <hi>false Quotations,</hi> calumniating Falsholds, wresting of the Scriptures, points
+<pb n="3" facs="tcp:159146:3"/> of Poperie, grosse Absurdities, verie neere, if not very meere contradictions,<note place="margin">Mr. Prynne Part <hi>2.</hi> Epist. part <hi>4.</hi> pag <hi>33.</hi> part <hi>3.</hi> pa. <hi>143</hi> part <hi>3</hi> pa. <hi>150</hi> Appendix p. <hi>11. 129.</hi> &amp; <hi>130.</hi> Part <hi>3.</hi> Tit. p. Part <hi>3.</hi> pag. <hi>78</hi> Opening the Seale, Epistle. Mr. Prynne part <hi>4.</hi> Appendix pag. <hi>90. 153. 170.</hi>
+               </note> haynous Treasons, and finally a plaine betraying of the Cause. Now cleere<g ref="char:EOLhyphen"/>sighted men will espie such pettie mis-carriages to bee sprinkled through all his Treatises.</p>
+            <p>As an Introduction to these Demonstrations wee may cast an eye upon his <hi>super-superlative advancin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of his <hi>owne Bookes,</hi> and his <hi>supecilious d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pressing</hi> the Writings of other men; which is not alwayes the undoubted signe of a sound judgement. The Margine may be Your <hi>Index.</hi>
+            </p>
+            <p>Of the first I will give you but a taste, onely in one or two instances. I will not undertake to examine all his false quotations; being deterred by their multitude and magnitude. I say magnitude; for in his Appendix he quoteth the Declaration of Denmarke, consisting but of Eight pages; he hath a quo<g ref="char:EOLhyphen"/>tation and Translation out of <hi>Iunius Brutus</hi> of Eight pages; another quota<g ref="char:EOLhyphen"/>tion out of the same Authour of Eighteene pages: With more than a few of such like: which he may examine, who will bestow his paines and patience to peruse them.</p>
+            <p>I will produce but one Quotation: <hi>at Leonem,</hi> but a rare one: <hi>Ex ungue Leonem,</hi> guesse at the Authour by this example. It is out of <hi>Bodine,</hi>
+               <note place="margin">Mr. Prynnes Append. p. <hi>18</hi>
+               </note>
+               <hi>that</hi> (as he stileth him) <hi>learned French Lawyer,</hi> and <hi>States-man, de Repub. lib.</hi> 2. <hi>cap.</hi> 1. <hi>pag.</hi> 222. <hi>Bodine</hi> saith, <hi>It alwayes hath, and shall bee lawfull for subjects to take wicked Princes out of the way.</hi> Can a sentence be quoted more plaine and full against our Cause, and for their Cause, than this of <hi>Bodines?</hi> But if <hi>Bo<g ref="char:EOLhyphen"/>dine</hi> speake no such thing, but more plainly and fully for our cause, and against their cause, what may we then thinke of Mr. <hi>Prynne</hi> the quoter?</p>
+            <p>Know then, that Mr. <hi>Prynne</hi> in his Appendix,<note place="margin">Appendix. pag. <hi>17.</hi> to <hi>51.</hi>
+               </note> doth urge an argument from the example of the Kingdome of France, in a few words: but from the 17. page to the 51. where he doth judiciously beginne with the judgement of <hi>Bodine:</hi> the words you have heard.</p>
+            <p n="1">1. In the place quoted, <hi>lib.</hi> 2. <hi>cap.</hi> 1. there are no such words:<note place="margin">Bodine de Re<g ref="char:EOLhyphen"/>pub. lib. <hi>2.</hi> c. <hi>1.</hi> Fol. Lat. <hi>182.</hi> Ang. <hi>191. 192</hi>
+               </note> yet some words there are, not impertinent to our controversie: <hi>viz. The Lords in the Parliament are called Peeres, for that they be equall one with another among themselves, but not with the Prince, as some have too rustically deemed.</hi> The superscription of the Parliament is, <hi>To our Soveraigne Lord the King:</hi> and the subscription, <hi>Your most humble and obedient subjects and servants, the men holding YOVR Court of Parliament— and to make the subj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct equall (not SOVERAIGNE) to the King in authoritie and power, est opinio non tantum absurda, sed etiam capitalis:</hi> Mr. <hi>Prynne</hi> can construe it: it is not onely an absurd, but a capitall opinion: yea it is <hi>(arrige aures Prynne)</hi> high Treason, saith Mr. <hi>Knolles</hi> in his translation of <hi>Bodine.</hi>
+            </p>
+            <p n="2">2. I confesse the words quoted, are in the 5. Chapter of the 2. Booke.<note place="margin">Bodin. de Re<g ref="char:EOLhyphen"/>pub. lib. <hi>2.</hi> c. <hi>5.</hi> Mr. Prynne Appendix pag. <hi>17. 18.</hi>
+               </note> But observe now in the foregoing words, as Mr. <hi>Prynne</hi> himselfe doth cite them: they were <hi>not Kings,</hi> but <hi>Reguli, little Kings,</hi> Kings onely of Cities, being themselves subject to the Nobilitie. Note what a faire inference bee here maketh: <hi>The Reguli, or little Kings of the Cities of the Gaules, might be put to death by the Nobilitie, to whom they were subjects, p.</hi> 17. So <hi>Bodine.</hi> By whose words it cleare, <hi>That the ancient Kings of France were inferiour
+<pb n="4" facs="tcp:159146:4"/> to, and censurable by the Parliaments, even unto DEATH.</hi>
+            </p>
+            <p n="3">3. The subinference must be, <hi>So is the King of England to the English Par<g ref="char:EOLhyphen"/>liament, even unto DEATH also.</hi> That he may discover himselfe to bee as faithfull to the judgement of <hi>Bodine,</hi> as hee is to the government of our King. Heare <hi>Bodines</hi> words as he relateth them pag. 17. 18. <hi>These sorts of Princes, who shall abuse their power to the destruction of good men, IT AL<g ref="char:EOLhyphen"/>WAYES HATH, AND SHALL BE LAWFVLL not for strangers only, but even for the subjects themselves also, to take them out of the way. BVT if the Prince be an absolute SOVERAIGNE, as the true MONARCHS of FRANCE, &amp;c. where Kings themselves have the SOVERAIGNTIE, without doubt or question not divided with their Sub<g ref="char:EOLhyphen"/>jects; in this case it is NOT LAWFVLL for any one of the subjects in par<g ref="char:EOLhyphen"/>ticular, or ALL of them in generall, to attempt any thing either by way of fact, or justice, against the Honour, Life, or Dignitie of the Soveraigne, albeit he had committed all the wickednesse and cruelty that can be spoken. N B, It is not lawfull for any one, or all, to attempt any thing against the King, be he never so wicked, or cruell.</hi> Verily had he but named the King of England, this French<g ref="char:EOLhyphen"/>man had spoken as home to the cause, <hi>That it is not lawfull to warre against our King,</hi> as any <hi>English Court-Doctor, or malignant Theologaster</hi> whatso<g ref="char:EOLhyphen"/>ever. And see the mischief<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>! There is an &amp;c. in this quotation, <hi>France, &amp;c.</hi> which occasioned me to looke on <hi>Bodine,</hi> both in Latine and in English; where it runneth thus.<note place="margin">Mr. Prynnes Appendix, pag. <hi>18.</hi> Bodine de R. Lat. fol. <hi>210.</hi> Angl. fol. <hi>222.</hi>
+               </note>
+               <hi>Quod si Monarchia est — qualis est Francorum, Hispanorum, ANGLORVM, Scotorum, &amp;c.</hi> Here wee see England is by name excepted, asserted to be a true Monarchie, and then definitively conclu<g ref="char:EOLhyphen"/>ded, <hi>That it is not lawfull for one, or all of his subjects, to attempt any thing a<g ref="char:EOLhyphen"/>gainst the King</hi> thereof. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>! Fye, fye, holy Mr. <hi>Prynne,</hi> can your sanctified penne, <hi>volens vidensque,</hi> willingly and wittingly abuse so perversly a learned French Lawyer, and so perniciously our gracious King of England?</p>
+            <p n="4">4. Yet there may be some excuse to extenuate this misquotation. As that this may be but one sentence, not the entire judgement of <hi>Bodine.</hi>
+            </p>
+            <q>Iudicio cadat hoc, stetve Bodine tuo.</q>
+            <p>I would Mr. <hi>Prynne</hi> durst submit his opinion to <hi>Bodines</hi> judgement; which he may doe, without any prejudice to his credit, or conscience. The truth is this, the asserting of our Cause, and the condemning of our Civill Warre and the Cause thereof, the infringing of our Kings Soveraigntie, is the substance of this Chapter, and an ingredient in the <hi>Series</hi> of all these Bookes of <hi>Bodine.</hi>
+               <note place="margin">Bodine de Re<g ref="char:EOLhyphen"/>pub. lib. <hi>2.</hi> ca. <hi>5</hi> fol. <hi>207.</hi>
+               </note>
+               <hi>Legibus capitale est, Majestatis jus ullum usurpare;</hi> it is treason (saith <hi>Bodine</hi>) to incroach upon the rights of his Majestie. <hi>Fixum maneat cum, a singulis occidi licere, qui vel Regi legitimo potestatem extorqueat;</hi> it is a constant opinion, that he deserves to dye, who dares wrest the power from his lawfull King. He is guiltie of high treason who hath killed his King, at<g ref="char:EOLhyphen"/>tempted,<note place="margin">
+                  <hi>Fol.</hi> 510.</note> consented, counselled (though by a learned Treatise) concea<g ref="char:EOLhyphen"/>led yea but wished it in his thought. NABUCHODONOSOR who wasted all the Countrie with fire and sword,<note place="margin">
+                  <hi>Fol.</hi> 211.</note> robbed and rased their Citie, burned their Temple, polluted their Sanctuarie, carried the people into Cap<g ref="char:EOLhyphen"/>tivitie, and commanded to adore his Image; yet God, by <hi>Ezechiel,</hi> did de<g ref="char:EOLhyphen"/>test
+<pb n="5" facs="tcp:159146:4"/> the rebellion of <hi>Zedechiah</hi> against this Tyrant.<note place="margin">
+                  <hi>Fol.</hi> 212.</note> As we confute them who denie there is a God, with Cudgels, not with Reasons; so should wee deale with them, <hi>qui perniciosissimis scriptis</hi> (Mr. <hi>Prynne</hi> understands this,) who by their pernicious Bookes perswade the people, <hi>That it is lawfull to take up armes against their King,</hi> though a Tyrant.</p>
+            <p n="5">5. There are many moe passages to this purpose in that Chapter, to which I referre you. The Booke it selfe seemeth to be an <hi>Anthypophora,</hi> an antici<g ref="char:EOLhyphen"/>pating Answer, or Antilogie to Mr. <hi>Prynnes</hi> five Treatises: building up what he pulls downe, <hi>The Soveraigntie of the King over the people;</hi> and pul<g ref="char:EOLhyphen"/>ling downe what he buildeth up, <hi>The practice of the people to make warre a<g ref="char:EOLhyphen"/>gainst their Soveraigne.</hi> I could compose a volume of Quotations out of him: but I will confine my discourse to the number, or neere the number of his Bookes written <hi>de Republica.</hi>
+            </p>
+            <p>In <hi>England;</hi> albeit the Controversies between the <hi>King,</hi> and <hi>People,</hi>
+               <note place="margin">Bodin. de Re<g ref="char:EOLhyphen"/>pub. lib. <hi>1.</hi> c. <hi>8.</hi> Latine fol. <hi>84.</hi> Angl. fol. <hi>90.</hi>
+               </note> are somtimes <hi>Determined</hi> by the <hi>Parliament:</hi> notwithstanding the <hi>King</hi> himself is the <hi>Comptroller of that Court (Arbiter &amp; Censor)</hi> as is manifest from their <hi>Petitions</hi> or <hi>Bills</hi> (Rogatione) <hi>which are in his power and pleasure to re<g ref="char:EOLhyphen"/>ceive or reject.</hi>
+            </p>
+            <p>Againe, let the patient attention pardon this over-large transcription; for in it M. <hi>Prynnes</hi> own witnesse speaketh <hi>more</hi> for our <hi>Kings Soveraignty,</hi> then any of those do, whom he pleaseth to stile <hi>Flattering Court-Doctors, Erro<g ref="char:EOLhyphen"/>neous Lawyers, Illiterate Theologasters, Popish Priests,</hi> and <hi>malignant Statists.</hi>
+            </p>
+            <p>
+               <q>Albeit that in the Parliaments of England,<note place="margin">Bod. de Repub. Latin. fol. <hi>90.</hi> Angl. fol. <hi>96.</hi>
+                  </note> which have commonly beene holden every third yeer, there the States seem to have a very great Liberty, (as the Northern people, almost all breath thereafter) yet so it is, that in ef<g ref="char:EOLhyphen"/>fect they proceed not but by way of supplication and requests unto the King: As in the Parliament of England 1566. when the States by a com<g ref="char:EOLhyphen"/>mon consent had resolved (as they gave the Queen to understand) not to intreat of any thing until she had first appointed who should succeed her in her Crown: She gave them no other answer, but that they were not to make her Grave, before she was Dead. All whose resolutions were to no purpose without her good liking: neither did she in that any thing that they required. Now also the States of England are never otherwise assem<g ref="char:EOLhyphen"/>bled, then by Parliament-Writs, and expresse Commandments from the King, which sheweth very well, that the States have no Power of them<g ref="char:EOLhyphen"/>selves, to Determine, Command, or Decree any thing; seeing they cannot so much as assemble themselves, or, being assembled, depart, without expresse Commandment from the King. Yet this may seem one speciall thing, that the Lawes made by the King of England, at the Request of the States, can<g ref="char:EOLhyphen"/>not be again repealed, but by calling a Parliament of the Estates; which is much used yet, I am assured, the King hath received or rejected the Law, as seemeth to him best, and hath not stuck to dispose thereof at his pleasure, and contrary to the will of the Estates. As we see <hi>Henry</hi> VIII. always to have used his Soveraigne Power, and with his only word to have disanulled the Decrees of the Parliament: Albeit that the Kings of England are not o<g ref="char:EOLhyphen"/>therwise crowned, but that they must sweare inviolably to keep the Lawes
+<pb n="6" facs="tcp:159146:5"/> and Customes of the Land: which how that Oath is to be understood, I referre you to that which we have before reported. But here might some object, that the States of England suffer not any extraordinary charges or Subsidies to be hid upon them, if it be not first consented unto by the high Court of Parliament: for so it is provided by a Law of <hi>Edw.</hi> I. Mine Answer is, that other Kings have in this point no more power then the Kings of England: for that it is not in the power of any Prince in the world, at his pleasure to raise Taxes upon the People; no more then to take another mans goods from him. Neverthelesse if the Necessity of the Com<g ref="char:EOLhyphen"/>mon-wealth be such as cannot stay the calling of a Parliament, in that case, the Prince ought not to expect the Assem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly of the States, neither the con<g ref="char:EOLhyphen"/>sent of the pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ple, of whose good fore-sight and wisdome, next to God, the welfare of the whole Estate dependeth. Here might some object also, That the States of England have power to condemne: as <hi>Henry</hi> 6. was con<g ref="char:EOLhyphen"/>demned by the Estates to the Tower, to be kept there prisoner. I say that was done in the Higher House of the Lords Ecclesiasticall and Temporall, at the request of the Lower House; who presented also a Bill to the Vpper House 1571. that the Earles of Northumberland and Westmorland, might be declared to have incurred the penaltie of the Law made against them that were guiltie of Treason. Wherefore the power of condemning was not in the Commons, but in the Higher House, whom the King had extraordina<g ref="char:EOLhyphen"/>rily authorized to be Judges <hi>(datis a Principe judicibus extra ordinem)</hi> in those cases. Otherwise the Commons should share with the Peeres in the power of judicature. But there yet remaines another difficultie greater than the former; That the States of England seeme to have power to command, resolve and decide of the affaires of State. For Queene <hi>Mary</hi> having as<g ref="char:EOLhyphen"/>sembled them for the passing of the Articles of agreement concerning her marriage with King <hi>Philip;</hi> their conclusion was made in forme of a De<g ref="char:EOLhyphen"/>cree, 2. April 1554. in these words. The Articles aforesaid, and that which dependeth thereon considered, by the Estates assembled in Parliament, it hath beene said, that concerning the disposition and collation of all Benefi<g ref="char:EOLhyphen"/>ces and Offices they are reserved to the Queene: as also of all the fruits, profits, rents, and revenues of her Countries, Lands, Seigniories, the Queene as sole and alone shall enjoy the Royaltie and Soveraigntie of her said Realmes, Countries, Lands, and Subjects absolute, after the consummation of their marriage: so that the said Prince shall not pretend by the way of Courtesie of England, any claime to the Crowne or Soveraigntie of the Realme, nor to any other rights, preheminences, or authorities: and that all Mandates and Letters Patents shall passe under the name of the said Prince and Queene jointly: which Letters signed with the hand of the Queene alone, and sealed with the great Seale, shall be available: but being not signed by the Queene, shall be void, and to no effect. I have set down this Ratification at large, to shew that the Soveraigntie wholly and with<g ref="char:EOLhyphen"/>out division belongs to the Kings of England; and that the States have but a view thereof. For the Ratification of the States, no more than of a Court or Corporation, sufficeth not to shew that the <hi>(Imperii Majestatem)</hi>
+                  <pb n="7" facs="tcp:159146:5"/> Soveraigne command is in the Court or Corporation; but some resemblance of Authoritie <hi>(authoritatis speciem)</hi> without which the Acts might have beene called into question after the death of the Queene. Wherefore wee conclude, That the majestie of the Prince is nothing diminished by the mee<g ref="char:EOLhyphen"/>ting of the Peeres and People in Parliament.</q>
+            </p>
+            <p>Of late yeeres, <hi>Anno</hi> 1581.<note place="margin">Bodine de Re<g ref="char:EOLhyphen"/>pub. lib. <hi>6.</hi> c. <hi>5.</hi> fol. <hi>723.</hi>
+               </note> (quoth <hi>Bodine</hi>) I went Ambassadour into England, in the service of the Duke of <hi>Anjou;</hi> where a Parliament being called by the Queene, there was an interdiction for any to <hi>move who should be her successour (de imperii successore sermones screre)</hi> on the paine of high trea<g ref="char:EOLhyphen"/>son. And this could not appeare to be any hyperbolicall Prerogative of the Queene of England, in the judgement of that French Ambassadour; for as much as that he had observed, That the Kings of England, Sweden,<note place="margin">Ibid. l. <hi>4.</hi> c. <hi>6.</hi> fol. <hi>4.</hi>
+               </note> Den<g ref="char:EOLhyphen"/>marke, Polonia, and Muscovia, doe much better maintaine the Majestie of their Estates with their Subjects, than doe the Kings of France, or Princes of Ital<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; and yet are not the lesse, but well the more of their Subjects obeyed. And layeth it downe as a Rule, <hi>Principi modis omnibus enitendum, ne subditos seipsos Potentiores esse patiatur;</hi> that hee must by no meanes endure that his Subjects should incroach upon his Soveraigntie.</p>
+            <p>Againe, he doth concurre with us in another maine branch of this contro<g ref="char:EOLhyphen"/>versie.<note place="margin">Ibid. l. <hi>1.</hi> c. <hi>10.</hi> fol. <hi>156.</hi>
+               </note> In a Regalle State there is none (as <hi>Bodine</hi> supposeth) which doubt all the power of Warre and Peace to be in the King; in so much that for any man to attempt even the least thing therein without the Kings command, <hi>pro<g ref="char:EOLhyphen"/>pe sit Capitale,</hi> is a crime little lower than High Treason.</p>
+            <p>Finally, he doth conclude this cause for us, both <hi>Pro</hi> and <hi>Con.</hi>
+               <note place="margin">
+                  <hi>Lib.</hi> 3. <hi>c.</hi> 4. <hi>fol.</hi> 297.</note>
+               <q>It is much better in all obedience to stoope unto the Soveraigne Majestie, then in resist<g ref="char:EOLhyphen"/>ing to occasion Rebellion: yet with this Proviso, That we obey not our King against the Lawes of God.</q>
+               <note place="margin">
+                  <hi>Lib.</hi> 4. <hi>c.</hi> 7. <hi>fol.</hi> 47.</note> And I doe easily beleeve that that King who is plunged in such a necessitie, that hee hath assayed all the wayes of Ju<g ref="char:EOLhyphen"/>stice to no purpose, <hi>(ad conciliandos suorum animos)</hi> to reconcile his subjects, that what he cannot doe by faire meanes, <hi>Armis consequatur,</hi> that hee may doe by force, and raise an Armie to suppresse them.</p>
+            <p>Thus little is he to himselfe, and thus much are we beholden to Mr. <hi>Prynne,</hi> for leading us into the Truth by his False Quotations of <hi>Bodine,</hi> that <hi>learned French Lawyer, and great Statesman.</hi>
+            </p>
+            <p>Having well nigh, if not well-wearied my selfe in the laborious winnow<g ref="char:EOLhyphen"/>ing this first False Quotation, I have no great minde to thrash any longer a<g ref="char:EOLhyphen"/>mong these sheaves: but in truth I want my Tooles, I have not the Bookes cited by him. Onely I cast mine eye upon another Quotation,<note place="margin">M. Prynnes Sov. of Parl. part <hi>1. p. 40.</hi> Mr. Speed, <hi>p. 675.</hi>
+               </note> which seemeth somewhat amisse. It is in his first Booke, pag. 40. out of <hi>Speed,</hi> pag. 675. If <hi>Speed</hi> did not well to relate, Mr. <hi>Prynne</hi> did ill to repeat that detestable <hi>Scan<g ref="char:EOLhyphen"/>dalum magnatum.</hi> Especially since Mr. <hi>Prynne</hi> saith, it may indanger the Heads of those who now shall speake it, or write it. But Mr. <hi>Prynne</hi> him<g ref="char:EOLhyphen"/>selfe doth here Write it: <hi>God save the marke.</hi> I never saw it, nor heard it, t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll I read it in Mr. <hi>Pryns</hi> Booke: he doth not well therefore to put such phra<g ref="char:EOLhyphen"/>ses into mens mouthes, and eies, which are against our ancient English Axi<g ref="char:EOLhyphen"/>ome, <hi>That nothing but Honourable must be thought of this Parliament:</hi> And I
+<pb n="8" facs="tcp:159146:6"/> shall from my heart abhorre that thing, or person, which shall compell me into a contrarie cogitation.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>Finis unius mendacii, est gradus futuri:</hi> his False Quotations lead us on to looke into his Falshoods; loud and lewd Lyes against his Majesties Partie, and Person too.</p>
+            <p n="1">
+               <note place="margin">Mr. Prynnes Soveraignty of Parliaments, part <hi>2.</hi> Epist.</note>1. <q>A companie (quoth charitable Mr. <hi>Prynne</hi>) of seeming scient, though really Inscient, selfe-conceited Court-Doctors, Priests, and Lawyers, have found out a Divine, Vnlimited, Absolute, Royall Prerogative in the King. The Machiavillian plots of Priests and Papists have contrived to set up Po<g ref="char:EOLhyphen"/>perie and Slaverie, by false pretences, mixt with Deceitfull Protestations, <hi>Psal.</hi> 31.20.</q>
+               <note place="margin">Mr. Prynnes Soveraignty of Parliaments, part <hi>2.</hi> pag. <hi>32. 42.</hi> Par. 3. <hi>p. 70.</hi>
+               </note> And his charitie is as ample towards the Sword-men, as to<g ref="char:EOLhyphen"/>wards the Gowne-men. <q>By the more than Barbarous, yea Beastlie Cru<g ref="char:EOLhyphen"/>eltie of the Chavalliers, sundrie Prisoners were chained together like Tur<g ref="char:EOLhyphen"/>kish Gallie-Slaves (Gentlemen, Ministers, Aged, Sickly) and led through the deepe waters in Winter, denied even the Water it selfe to quench their thirst, such were Beaten as offered them but a <hi>drop of water to coole their tongues.</hi> After this they were shut up in Dungeons, lying on the Ground, Boards, and Stones, without any Beds, Straw, or Fire; allowed a poore pittance of <hi>Adams</hi> Ale, and scarce a pennie bread a day; though their friends did provide it. Finally, divers of them died of Famine, and others were murthered, and their Carkesses left Vnburied for the Fowles to prey on.</q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; such a Truth must be twice related, that the world may take notice of an Vnlimited Crueltie. If the Cavalliers did this, they are the cru<g ref="char:EOLhyphen"/>ellest men in the world: If they did not, Mr. <hi>Prynne</hi> is the Cruellest Lyer in the world. Whereof follow some pettie conjectures: I will not say Demon<g ref="char:EOLhyphen"/>strations.</p>
+            <p n="2">2. Well may we be contented to be called the Children of Belial; if hee call our <hi>Pater Patriae,</hi> our Nationall, nay Nursing Father <hi>Belzebub.</hi> Shall poore Subjects shrinke under Mr. <hi>Prynnes</hi> False reports, when our King is laden with his Lyes, and Calumnies? wherein he surpasseth Dutch <hi>Sciopius,</hi> or English <hi>Parsons;</hi> and <hi>Iohannes Eudaemon</hi> is farre outstripped by <hi>Guilielmus Cacodaemon,</hi> the Authour of the following Accusations against his Lord the King.</p>
+            <p>
+               <q>The Breach of Oathes is a thing over common amongst our Kings. So that the Prophet doth give us a Caution,<note place="margin">Mr. Prynnes Sov. Parl. part <hi>2. p. 37.</hi> Ibid. par. <hi>2. p. 55.</hi>
+                  </note>
+                  <hi>O put not your trust in Princes,</hi> Psal. 146.3. <hi>Surely men of high degree are a Lye, to be laid in the Ballances lighter then Vanity,</hi> Psal. 62.9. both in their Oathes and Promises. <hi>Anno</hi> 1375. 50. <hi>Ed.</hi> 3. it was ordained that certaine Bishops, Earles, and Lords, should governe both the King and Kingdome; the King being then in his Dotage, and unable to governe himselfe or the Kingdome, because the King was growne old, and wanted such Governours.</q>
+               <hi>Salvares est, crubescit.</hi> Well fare this good man, he hath some modestie yet; he will not put his Ma<g ref="char:EOLhyphen"/>jestie to an Open Shame: he doth but onely implie that our King is guiltie of Common Breach of Oaths and Promises; and that he is in his Dotage, not able to Governe his Kingdome, nor Himselfe. And therefore hee wanteth such Governours as prudent Mr. <hi>Prynne</hi> shall appoint. But <hi>exerte, &amp; aperte;</hi>
+               <pb n="9" facs="tcp:159146:6"/> heare him next speaking Plaine English, to some purpose.</p>
+            <p>
+               <q>O more then Turkish Barbarousnesse, that one man, one Christian,<note place="margin">
+                     <hi>Sov. of Parl. part</hi> 3. p. 32. <hi>part</hi> 2. p. 35.</note> one English subject, even in or neere the presence of his Soveraigne, should thus intreat another, without any punishment, or checke; much more with Approbation. Subjects (even at Oxford where the King resides) are more inhumanely handled, under his Majesties view, then Gallie-slaves in Turkie. And scarce one Declaration or Promise observed, so much as the very Day they are published; notwithstanding so many multiplications of them in Print, that the people may take better notice how they are Broken. And shall the Parliament then take these so notoriouslie oft violated, never yet observed Protestations, for our Kingdomes securitie? The King,<note place="margin">
+                     <hi>Ibid. part</hi> 4. p. 25, 26.</note> and his Councell, and Commanders, have burned, sacked, plundered many whole Townes, Cities, and Counties, and spoyled Thousands of All they have; contrarie to their very Promises, Articles, and Agreements, which they ne<g ref="char:EOLhyphen"/>ver faithfully observed in the least degree; and all this to the Ruine of the Kingdome, People, Parliament, and Religion: Witnesse Taunton,<note place="margin">
+                     <hi>Ibid.</hi> p. 29.</note> Bridge<g ref="char:EOLhyphen"/>water, Bristol, Banburie; where many were pillaged to the very skinne, notwithstanding their Articles of agreement, solemnly sworne, that they should be free from plunder: with other barbarous Rapines, Murthers, Cruelties, Rapes, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onstrous Insol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncies,<note place="margin">
+                     <hi>Ibid.</hi> p. 34.</note> which his Cavalliers every<g ref="char:EOLhyphen"/>where perpetrated without punishment or restraint. And (to make his Slander redundant) adde, quoth he, the Omnipotent over-ruling power of the Queene with the King, in disposing all Offices and places of Command under him.</q>
+            </p>
+            <p>
+               <q>To conclude,<note place="margin">Ibid. p. <hi>34.</hi>
+                  </note> I wish all seriously to consider the confederacie of forraigne Popish States, to maintaine this warre, to ruine Parliament. Kingdome, Religion, and re-establish POPERY in its universall EXTENT. More<g ref="char:EOLhyphen"/>over, a Truce is negotiated, if not concluded with the Irish Rebels, that all their forces may be transported hither, to cut all our Throats, as they have cut above an Hundred and fortie Thousand of our Protestant Brethrens Throats already in Ireland: for which end, some Thousands of Irish Re<g ref="char:EOLhyphen"/>bells (who have all embrued their hands there in English bloud) are alrea<g ref="char:EOLhyphen"/>die landed here, and are in great favour and command about the King.</q>
+            </p>
+            <p>Me thinkes M. <hi>Prynne</hi> might remember <hi>(Oportet mendacem esse memorem)</hi> the 5. Councell of Toledo, cited by himselfe,<note place="margin">
+                  <hi>M. Pryns Sov. of Parl. Appen<g ref="char:EOLhyphen"/>dix,</hi> p. 58. 2 Sam. 16.9, 11 12</note> That none may revile the Prince under paine of Excommunication. <hi>At quod gravius est dicam: Why should this dead Dog curse my Lord the King? Shall not Abishai goe over, and take off his head?</hi> Although our <hi>David</hi> saith, <hi>Let him alone, let him curse: it may bee the Lord will requite me good for his cursing this day:</hi> Yet the time may come when young <hi>Salomon</hi> may <hi>send for Shimei, and say to him; Thou knowest all the wickednesse which thy heart is privie to,</hi>
+               <note place="margin">1 King. 2.44.</note>
+               <hi>that thou diddest to David my Fa<g ref="char:EOLhyphen"/>toer (even curse him with a grievo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> curse) therefore the Lord shall returne thy wickednesse upon thine owne HEAD. Therefore repent of this thy wicked<g ref="char:EOLhyphen"/>nesse, and pray God, if perhaps the thoughts of thy heart may be forgiven thee: for I perceive thou art in the GALL of BITTERNESSE.</hi>
+               <note place="margin">Acts 8.22, 23.</note>
+            </p>
+            <pb n="10" facs="tcp:159146:7"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> In the next place, we may observe his Pamphlets to be interlarded with many prettie Paradoxes and pernicious Absurdities: and some of them do somtimes interfeere too:<note place="margin">
+                  <hi>Mr. Prynnes Soveraignty of Parliaments, part</hi> 1. <hi>pag.</hi> 19. 21, 22. 39. <hi>Par.</hi> 2. p. 25. 62. <hi>part</hi> 3. <hi>pag.</hi> 5. 9. <hi>Part</hi> 3. <hi>p.</hi> 19. 34 35. <hi>Part</hi> 3 <hi>p.</hi> 23. 24. <hi>part</hi> 3. <hi>p.</hi> 120. <hi>Part</hi> 3. <hi>p.</hi> 112.</note>
+               <hi>viz.</hi>
+               <q>The Earls and Barons are above the King, and are called <hi>Comites,</hi> because they are the Kings Companions. Howbeit, every one in the House of Commons hath a greater Voice then any Earle: and the King and the Commons may hold a Parliament without the Lords. A Member of the Parliament cannot commit Treason. No Court of Justice or Corporation can be culpable of Treason. That there are THREE E<g ref="char:EOLhyphen"/>states in the Parliament besides the King. If a King, if our King make war upon his Subjects, by it he is become no King nor Magistrate, but a meere private person. Beasts have killed Kings in their defence: therefore this Defensive War is lawfull. To take up Arms by way of Offence, and with<g ref="char:EOLhyphen"/>out the authority of the Parliament, is not Treason or Rebellion. The Barons wars against K. <hi>Henry</hi> 3. were lawfull. Every man and beast receive their estate and food by Gods Providence, AS WELL as Kings their Crowns: <hi>Caesar</hi> was not the Soveraigne power of the Romans, yet the Romans ap<g ref="char:EOLhyphen"/>pealed to <hi>Caesar.</hi>
+               </q>
+            </p>
+            <p>These are his absurd Sentences: I will second these with some of his ab<g ref="char:EOLhyphen"/>surd Arguments:<note place="margin">2 Thes. 3.2.</note> and so I may pray that <hi>The Lord will deliver us from ab<g ref="char:EOLhyphen"/>surd men.</hi>
+            </p>
+            <p>
+               <note place="margin">Mr. Prynnes Soveraignty of Parliaments, Part <hi>4.</hi> pag. <hi>2.</hi> &amp;c.</note>
+               <hi>The Parliament</hi> 13 Edw. 3. <hi>did order the</hi> Militia <hi>in the Kings absence in France, and with the Kings permission.</hi> Ergo,</p>
+            <p>
+               <hi>The Parliament may order the</hi> Militia <hi>now, whilest our King is present here, whether he will or no.</hi>
+            </p>
+            <p>This Argument (if I mistake not) is the substance of the 2, 3, 4, 5, 6. pages of his 4. Book.</p>
+            <p>
+               <note place="margin">Ibid. p. <hi>8.</hi> &amp; <hi>9.</hi>
+               </note>
+               <hi>In the Parliament</hi> 15. Rich. 2. <hi>The Commons said in full Parliament, they thought it expedient, if it should please the King, that</hi> Mounsieur de Gui<g ref="char:EOLhyphen"/>enne <hi>should go into France for a Treaty of peace: and the King said, he liked it well:</hi> Ergo,</p>
+            <p>
+               <hi>This Parliament hath power to conclude peace,</hi> pag. 1. <hi>And without the Kings assent,</hi> as it is in the Title Page.</p>
+            <p>This Argument is extant in the 8. and 9. page of his 4. Book.</p>
+            <p>
+               <note place="margin">Mr. Prynne ibid. p. <hi>8.</hi>
+               </note>
+               <hi>K.</hi> Henry 6. <hi>with the ass<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt of his Lords Spirituall and Temporall, did ap<g ref="char:EOLhyphen"/>point the Earls of</hi> Salisbury <hi>and</hi> Shrewsbury <hi>to guard the Seas,</hi> p. 8. Ergo <hi>This Parliament may order the</hi> Militia <hi>by Sea without</hi> K. Charles <hi>consent.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Ibid.</hi> p. 10.</note>21. Jacobi, <hi>the Parliament by that very Act did appoint</hi> 8 <hi>Aldermen Trea<g ref="char:EOLhyphen"/>surers to receive the money, and</hi> 12 <hi>Knights to be of the Counsell of War,</hi> pag. 16. Ergo;</p>
+            <p>
+               <note place="margin">Ibid.</note>
+               <hi>This Parliament may conclude matters of War without this Kings assent.</hi>
+            </p>
+            <p>
+               <hi>His Majesty in his Answer to the Petition</hi> Feb. 2. 1641. <hi>saith he will be con<g ref="char:EOLhyphen"/>tent to put the</hi> Militia <hi>to such Persons as the Parliament should recom<g ref="char:EOLhyphen"/>mend,</hi> pag. 10. Ergo,</p>
+            <p>
+               <note place="margin">Ibid.</note>
+               <hi>The Parliament hath power to dispose of the</hi> Militia <hi>without His Majesties consent,</hi>
+            </p>
+            <pb n="11" facs="tcp:159146:7"/>
+            <p>
+               <hi>The Commons did request</hi> 1. Ric. 2. <hi>that the Counsellours of the King, and Officers of the Kingdome might be approved by them. Also</hi> 11. Ric. 2. <hi>that the Counsell might remove the Kings Houshold servants,</hi> p. 10. 11. Ergo</p>
+            <p>
+               <hi>This Parliament hath power to place and displace great Officers, Privy Counsellours, and the Houshold servants of our King.</hi> p, 11.</p>
+            <p>Here is a Logician, who is able to teach all our Sophisters, in both the V<g ref="char:EOLhyphen"/>niversities, to frame Arguments from his Topick Head: <hi>Ab absurdo.</hi>
+            </p>
+            <p>We have heard Propositions and Arguments enough, and absurd enough: Proceed we now to peruse his Presidents, propounded by him for His Maje<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ties imitation, no way inferiour to these in grosse absurdity.</p>
+            <p>
+               <hi>Agesilaus</hi> and <hi>Pausanias,</hi>
+               <note place="margin">M. Pryns Sov. of Par. Appen<g ref="char:EOLhyphen"/>dix, <hi>p. 11, 14.</hi> Part <hi>4. p. 12.</hi>
+               </note> who were Kings in Lacedaemonia rather in name then in Dominion: the <hi>Ephori</hi> (the Parliament) among the said Lacedaemo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ians had power to depose their Kings. <q>
+                  <hi>Henry</hi> 4. the Commons desired that <hi>Derham</hi> and <hi>Crosbie</hi> might be removed from the King: the King an<g ref="char:EOLhyphen"/>swered, He knew not by them any cause. —Notwithstanding—he would conform him to their intentions. —And the King said further, that he would do the like with any other, if he were in hatred with the People. The <hi>Cumaeans</hi> had a Magistrate, whom they called <hi>Phylactus,</hi>
+                  <note place="margin">Appendix. pag. <hi>14.</hi>
+                  </note> (who is this Officer in England, but zealous M. <hi>Prynne?</hi>) whose office was to come into a full Senate, and hold the Kings hands, who stood in judgment before them untill by their Senatours Decree their reward or punishment was appoint<g ref="char:EOLhyphen"/>ed.<note place="margin">
+                     <hi>Appendix</hi> p. 139.</note>
+               </q> Nay this holy person hath wholsome presidents for our Prince out of Scripture too. 1 <hi>King.</hi> 12. we see <q>The Kings not hearkening to the people in their just request, and giving them an harsh Answer, were grounds suffici<g ref="char:EOLhyphen"/>ent to cast off his government, and to elect another King. And <hi>Ier.</hi> 28.4. <hi>The Princes said to the King,</hi>
+                  <note place="margin">Ibid. p. <hi>140.</hi>
+                  </note>
+                  <hi>Let this man</hi> (certainly an innocent man) <hi>be put to death: and the King said, Behold he is in your hand: for,</hi> THE KING IS NOT HE WHO CAN DO ANY THING A<g ref="char:EOLhyphen"/>GAINST YOV.</q>
+            </p>
+            <p>There are two absurd Paradoxes which my memory omitted,<note place="margin">
+                  <hi>part</hi> 3. p. 8. <hi>Append. p.</hi> 186 <hi>Part</hi> 3. <hi>Epist.</hi>
+               </note> but must be here annexed: one is somwhat pernicious, but the other is wholly unpardon<g ref="char:EOLhyphen"/>able. <hi>The King may be a traytor,</hi> that is the former; the latter, O abomina<g ref="char:EOLhyphen"/>ble! <hi>That souldiers should serve</hi> gratis, <hi>without pay.</hi> I am halfe of the mind that half of the Army will explode this prudent perswasion of pious M. <hi>Pryn</hi> for a very absurd point of frugality.</p>
+            <p>Here I must add an <hi>Appendix,</hi> being an abstract out of M. <hi>Prynnes Appen<g ref="char:EOLhyphen"/>dix,</hi> which he also hath abstracted out of forraigne Authours, to whom he hath given his approbation, and from whom he also receiveth his proofs of the <hi>Parliaments Soveraignty</hi> over the <hi>Kings Majesty.</hi> This <hi>Appendix</hi> containeth many Treasonable Absurdities, which may seem to anticipate the following branch of his doctrinall Treasons. But you must understand that M. <hi>Prynnes</hi> Pamphlets are so fertile of points of TREASON, that they will admit Tautologies in the Rehearser.</p>
+            <div type="part">
+               <pb n="12" facs="tcp:159146:8"/>
+               <head>A King (even our King) according to M. Prynnes desire and description.</head>
+               <p n="1">
+                  <note place="margin">M. Prynnes Appendix.</note>1 He cannot impose taxes, p. 52. [2 Nor give portions to his children, p. 66. [3 Not displace a Judge, p. 69. [4 He must confirm whatsoever shall be concluded by the States, p. 69. [5 He must not depart from the Parliament, p. 69. [6 He may not coine money, p. 72. [7 He may have no confiscations, p. 73. [8 He may give nothing to Strangers, p. 76.</p>
+            </div>
+            <div type="part">
+               <head>The authority of the Parliament over the King, according to M. Prynnes Authours, and approbation.</head>
+               <p n="1">1 They may summon him to the Parliament, pag. 69. [2 Question him, p. 55. [3 Restraine him, p. 53. [4 Allow him onely a pension to sup<g ref="char:EOLhyphen"/>port him, p 63. [5 Order his House, p. 69. [6 Appoint him Counsel<g ref="char:EOLhyphen"/>lours, p 69. [7 Appoint him Governours, p. 71. [8 Separate his Queen from him, p. 65. [9 Void his Will, p. 63. [10 Seize on his revenues, p. 69. [11 Keepe his Forts, p. 72. [12 Rebell, p. 73. [13 Bring in Forreigners, p. 74. [14 Banish him, p. 65. [15 Make warre and peace, p. 65. [16 Force him to resigne his Crown, p. 56. [17 Force him to renounce his Right to the Crown, p. 64. [18 Determine the right to the succession of the Crowne. p. 73. [19 Chuse their owne Judges, p. 74. [20 Rescind the Kings Acts, p. 75. [21 Imprison him. [22 Put out his eyes, p. 59. [23 Strangle him, p. 58. [24 Absolve his Subjects from their Allegiance, p. 59. [25 Depose him. p. 57. [26 Dis-inherit him, p. 68. [27 Make in every town a particular King, p 66. [28 Remove him at the peoples pleasure, p. 73. [29 Elect another, p. 62. [30 Elect another, Christian, or Infidell, p. 77.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> These absurd opinions argue the Authour of them to be a most absurd man and such also are his admirers, if they proceed to imbrace his doctrine, espe<g ref="char:EOLhyphen"/>cially his perswasion to this bloudy warre, without due examination.</p>
+               <p>Those that suppose false and absurd opinions (as M. <hi>Prynne</hi> doth both) un<g ref="char:EOLhyphen"/>lesse they be very cautelous, cannot but let fall contradictions in their wri<g ref="char:EOLhyphen"/>tings: so such, a few and light ones I have gathered out of M. <hi>Pryns</hi> Books, and I here represent them unto you.</p>
+               <p>
+                  <note place="margin">Sov. of Parl. part <hi>2. p. 2.</hi>
+                  </note>There will be (saith he) a Desolation of our Kingdome, if there be not a speedy honourable and safe Accommodation. Appears not this man to be an excellent Patriot? a <hi>Pacificus?</hi> a blessed Peace-maker? yet in contradiction to this, he perswades the people, that safe peace is impossible, both for and from the Kings party. A safe peace must proceed from the Kings Protestati<g ref="char:EOLhyphen"/>ons, or from an Act of Oblivion. That the people cannot depend upon His Majesties publike printed Promises and Protestations: he doth dispute it in foure or five folio's together: wherein his 4. Argument and 34. folio, he dis<g ref="char:EOLhyphen"/>covers his mind in these modest and mannerly words: <hi>Because our Kings,</hi> Iohn, Edward <hi>and</hi> Richard 2. <hi>having got possession of the Castles by Accom<g ref="char:EOLhyphen"/>modation;
+<pb n="13" facs="tcp:159146:8"/> Brake their Vowes— shall wee dreame of a new world in this Dis<g ref="char:EOLhyphen"/>sembling age, when King-Craft is improved to the uttermost?</hi>
+                  <note place="margin">Mr. Prynne ibid. <hi>p. 27.</hi> ad <hi>34.</hi> Part <hi>1.</hi> pag. <hi>10</hi>
+                  </note> And that hee may make even an Act of Oblivion distrusted also, he tells the people, That <hi>Edward</hi> the second to avoid danger, passed an Act of Indemnitie, but the Ba<g ref="char:EOLhyphen"/>rons returned neither merrie nor secure. On the other side, he puts the Kings partie in Despaire of any peace from the Parliament.<note place="margin">Mr. Prynne Appendix <hi>p. 216.</hi>
+                  </note>
+                  <q>All they (saith he) that joine with the Popish Malignant partie— certainly such Vnna<g ref="char:EOLhyphen"/>turall Monsters, such trayterous <hi>Iudasses,</hi> such execrable infamous Apostats, can expect no other remuneration of their perfidiousnesse, but the Ruine of their Credi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, the Detestation of their Persons,<note place="margin">part <hi>2.</hi> Epist. part <hi>3.</hi> Epist. Part <hi>3.</hi> p. <hi>70.</hi> Part <hi>3.</hi> p. <hi>133.</hi> Part <hi>4 p. 35.</hi> Append. <hi>217.</hi> Mr. Prynne part <hi>3. p. 147.</hi> vel <hi>149.</hi> Part <hi>4.</hi> Epist.</note> the Confiscation of their Estates, and the Extirpation of their Families.</q> Thus this <hi>Boutefeu</hi> in one place seemeth to cast Water, but in others he doth cast Oyle on our Fire of Warre: he talketh of peace, but prepareth his Brethren to Battle. And in<g ref="char:EOLhyphen"/>deed the maine drift of all his Bookes is against peace; as may appeare by these places in the Margine. Vpon whose Head then will that Bolt fall, which this wise man shot towards Heaven in his dreadfull Imprecation? Let Gods curse and mens for ever rest upon all those who are in love with any Warre, espe<g ref="char:EOLhyphen"/>cially with Civill Warre within their owne dearest Countries bowels. More<g ref="char:EOLhyphen"/>over, in his Epistle before rhe 4 part, he protesteth, <q>I alwayes have been, and ever shall be an Honourer and Defender of Kings and their Monarchie:</q> but in the very first page of that Booke hee maketh as deepe, but Contradi<g ref="char:EOLhyphen"/>ctorie Protestation: <q>I shall cleare the Parliaments just right in ordering the Militia by Sea and Land; in disposing the Ships and Forts;<note place="margin">Mr. Prynnes Soveraignty, part <hi>4.</hi> pa. <hi>1.</hi>
+                     </note> in conclu<g ref="char:EOLhyphen"/>ding Warre and Peace; in placing and displacing the great Officers and Privie Councellours; yea in Regulating the Kings Houshold and meniall Servants.</q> What is left to his Majestie, the Monarch, by this man who pro<g ref="char:EOLhyphen"/>fesseth himselfe such an Honourer of Monarchie?</p>
+               <p>In one side he calls his Theame <hi>(The Soveraigntie of the Parliament)</hi> a practice as old as <hi>Adam;</hi> in the very next a <hi>Truth newly discovered.</hi>
+                  <note place="margin">
+                     <hi>Part</hi> 4. <hi>Epist. Part</hi> 3. <hi>p.</hi> 112, 131.</note> In his 3. Booke, page 112. he saith the Romane Emperour was <hi>Not the Soveraign Power;</hi> and page 131. that <hi>Paul</hi> did appeale to Caesar, as to the <hi>Soveraigne Tribunall.</hi> Page 131. he stiles our King <hi>Supreme Governour under Christ;</hi> and the scope of his whole Treatise is to prove,<note place="margin">
+                     <hi>Appendix. pag.</hi> 218. 217.</note> that our King <hi>is supreme Go<g ref="char:EOLhyphen"/>vernour under the Parliament.</hi> In the last page of his last Booke, hee prayeth piously for peace, and in the page before hee preacheth zealously for Warre. Doubtlesse, all godly persons, though they love both Praying and Preaching, yet they love neither, if they be Contradictorie. I conceive it no meane con<g ref="char:EOLhyphen"/>tradiction which is betweene the Title and his Treatise it selfe. There hee termeth it the <hi>Soveraigne Power of Parliaments:</hi> in this sometimes he vouch<g ref="char:EOLhyphen"/>safes his Majestie his own Title, that he is <hi>our Soveraigne Lord.</hi> A <hi>Soveraign Prince,</hi> and a <hi>Soveraigne Parliament!</hi> It is prodigious to see <hi>Two Sunnes,</hi> and no lesse to heare <hi>Two Soveraignes.</hi> Wherefore my Soule shall concurre with Mr. <hi>Prynnes</hi> Opinions, when my Body can at once inhabit here and with the Antipodes.</p>
+               <p>You may likewise say some such thing concerning his Perswasions.<note place="margin">
+                     <hi>part</hi> 3. <hi>p.</hi> 147. 149.</note> In one place he protesteth seriously for peace, in another he maketh as serious prote<g ref="char:EOLhyphen"/>stations
+<pb n="14" facs="tcp:159146:9"/> against peece. This Reeling sheweth that he is Drunke: but whe<g ref="char:EOLhyphen"/>ther it be with Malice,<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pist.</note> or Ambition, or Pride, or Popularity, I doe not know. He may know, if he carefully consult with his Conscience.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> Here will some returne upon me a Recrimination in mine owne words; that I offend grossely by <hi>False Quotations, Falshoods, and Absurd Contradi<g ref="char:EOLhyphen"/>ctions</hi>▪ if I dare say, that Mr. <hi>Prynne</hi> that grand <hi>Anti-papist,</hi> is a <hi>Papist.</hi> It is confessed that Mr <hi>Prynne</hi> is averse enough from some points of <hi>Popery,</hi> as the <hi>Supremacy, Transubstantiation,</hi> and <hi>Adoration</hi> of all sorts; those abominable <hi>Popish Idolatrous Ceremonies,</hi> the <hi>Crosse</hi> in one Sacrament, <hi>Kneeling</hi> at the other, the <hi>Surplice</hi> in both, and <hi>Bowing</hi> at the name of <hi>Iesus,</hi> who is <hi>God</hi> blessed for evermore: but above al, from those abominable <hi>Popish Reliques, Bishops, Deanes,</hi> and their <hi>LANDS.</hi> Yet I must charge him with other Poperie, unlesse <hi>aliud animo premit, aliud ore promit;</hi> unlesse his minde and his pen be of contrarie opinions. But so, that if he, or any for him, can ren<g ref="char:EOLhyphen"/>der a faire Excuse, we are ready to receive it; wee will give him leave to bee his owne Interpreter, Yea, if his Interpretation be doubtfull, we will follow <hi>meliorem partem,</hi> incline to the most favourable meaning. If he and his part would have extended the like charity to us then the wounds in our Church had never beene made, or quickly healed. Then, so many of our religious and sound Protestants had never been branded with those destroying Nicknames, <hi>Rotten Popish Malignants.</hi>
+               </p>
+               <p>I must put a parcell of popery to Mr. <hi>Prynnes</hi> accompt; if he can wipe out the score, I shall rest well satisfied.</p>
+               <p n="1">1. First, the politique Papists had their <hi>pias fraudes,</hi> held that they might <hi>Lye</hi> for <hi>The Church,</hi> and prudent Mr. <hi>Prynne</hi> seemeth to practise the same <hi>for The Cause.</hi> To cleare him of this suspition, I commend unto him the re<g ref="char:EOLhyphen"/>view of his Booke called <hi>Romes Master-piece:</hi>
+                  <note place="margin">Romes Master piece.</note> where both the Text and the Comment seeme to savour of a Fiction. <hi>Andrew Habernfield</hi> the Authour incurreth some s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>spition upon these grounds. He saith,</p>
+               <p>
+                  <hi>That th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re are more Iesuits in London, than in Spain, France, and Italy.</hi> p. 15</p>
+               <p>
+                  <hi>That the Prince is educated in Popery,</hi> pag 18.</p>
+               <p>
+                  <hi>That one Widow gave foure hundred thousand pounds to promote that De<g ref="char:EOLhyphen"/>signe.</hi> pag. 22.</p>
+               <p>
+                  <hi>That there is a Nunnery at Greenwich, built by the Earle of Arundel,</hi> pag. 23.</p>
+               <p>The finder out, and setter out of that Booke, may be suspected on the like grounds; for he saith,</p>
+               <p>
+                  <hi>That a Popish person is now Keeper of the Great Seale.</hi> 23.</p>
+               <p>
+                  <hi>That there hath beene an hundred and forty thousand Protestants massacred in Ireland.</hi> 33.</p>
+               <p>
+                  <hi>That Bristol was most cowardly yeelded up.</hi> 35.</p>
+               <p>
+                  <hi>That</hi> (principally) <hi>Mr.</hi> Prynne <hi>was a Testimony from Heaven to finde out that Booke.</hi> p. 2.</p>
+               <p>This maketh me to beleeve in part, that in part this <hi>Master-piece of Rome</hi> was framed in the Head-piece of Mr. <hi>William Prynne,</hi> but I am prae-judged:
+<pb n="15" facs="tcp:159146:9"/> if I deeme this an <hi>Imposture,</hi> I am an <hi>Infidell;</hi>
+                  <note place="margin">Mr. Prynnes pref. to Romes Masterpiece, <hi>p. 2.</hi> Remonstrance against Ship<g ref="char:EOLhyphen"/>money, <hi>p. 22.</hi>
+                  </note> if not a <hi>Monster</hi> of <hi>Intredu<g ref="char:EOLhyphen"/>litie,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p n="2">2. Next <hi>Visions</hi> and <hi>Revelations</hi> are of neere affinity to these <hi>Pia Frandes:</hi> all holy <hi>Lyes,</hi> to holy <hi>Ends:</hi> and all <hi>Popish</hi> arguments.</p>
+               <p>Such a Popish argument doth Mr. <hi>Prynne</hi> use to perswade our King. <hi>That most holy King</hi> Edward <hi>the Confessour, when some brought the Dane-gelt, then collected, into his Bed chamber, and carried him thither, to see so great an heape of Treasure; the King was agast at the very sight thereof, protesting that he saw a Devill dancing upon that great pile of money; whereupon hee presently com<g ref="char:EOLhyphen"/>manded it to be restored to the owners;</hi> &amp; de tam FERA EXACTIONE ne unum jota voluit retinere, <hi>and hee would not retaine one jote of so cruell a Taxation.</hi> An excellent president (quoth Mr. <hi>Prynne</hi>) for your Majestie to imitate both of Justice and Charitie.</p>
+               <p n="3">3. Mr. <hi>Prynne</hi> doth dispute against Bishops, whom they sirname Popish,<note place="margin">Opening the Seale, <hi>p. 5, 6.</hi>
+                  </note> by a Popish argument, drawne from a Revelation by an Apparition thus. A Monke of <hi>Clervaulx</hi> was chosen to be Bishop, the which hee refused against the will of his Abbot and Bishop, and soone after died: who appearing after his death to his familiar, he demanded of him, if the <hi>Disobeysance</hi> before said annoyed him not? He answered, that nay: and afterwards said, <hi>If I had ta<g ref="char:EOLhyphen"/>ken the Bishopricke I had beene DAMNED:</hi> and said moreover an horrible word, <hi>The state of the Church is come to this, that she is not digne to be gover<g ref="char:EOLhyphen"/>ned BVT OF ILL BISHOPS.</hi> Doubtlesse Bishops must downe, when such doughtie arguments are urged against them.</p>
+               <p>Those two grosse points of Poperie, <hi>Implicite Faith</hi> and <hi>Blinde Obedience,</hi> we confesse to be a broad-leaf'd doore, to let in all errours, superstition,<note place="margin">4 <hi>&amp;</hi> 5.</note> idola<g ref="char:EOLhyphen"/>trie, Poperie into the Church. Mr. <hi>Prynne</hi> indeed doth charge us with these; but wee returne them to the right owner.<note place="margin">
+                     <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ver. part</hi> 4. p. 14 26.</note> When as divers of his Majesties good subjects cry out, that their <hi>Estates</hi> are <hi>plundered,</hi> and their <hi>Persons im<g ref="char:EOLhyphen"/>prisoned,</hi> contrarie to the <hi>Lawes</hi> of this Land, <hi>Magna Charta,</hi> the <hi>Petition of Right, &amp;c.</hi> we are roundly told, that the two Houses are not obliged by these Lawes. But yeeld wee must, without any Disobedience or Disputation. I appeale to Mr. <hi>Prynnes</hi> owne Booke,<note place="margin">part <hi>2.</hi> Epist.</note> (I had almost said to Mr. <hi>Prynnes</hi> owne Conscience) whither this be not <hi>Popish Blinde Obedience,</hi> and <hi>Implicite faith,</hi> according to Mr. <hi>Prynnes</hi> owne description.</p>
+               <p n="6">6. Mr. <hi>Prynne</hi> doth teach not onely Popish Opinions, but moreover o<g ref="char:EOLhyphen"/>pinions which are Popish in an high degree; the next degree to Antichristian. The two grand chracters of Antichrist are <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 2 <hi>Thes.</hi> 2.4. &amp; 8. one who shall <hi>Exalt himselfe above all Kings, and above all Lawes.</hi>
+                  <note place="margin">Sover. part <hi>2.</hi> Epist.</note> Now note well the claime that Mr. <hi>Prynne</hi> maketh in the behalfe of the two Houses: <hi>a Supreme unlimited Authority;</hi> that is <hi>Supreme, above the Kings;</hi> and <hi>Vnlimited, above the Lawes</hi> of this Land. Now, excepting that the Pope doth challenge his to bee <hi>Oecumenicall,</hi> and the Parliaments is said to bee but <hi>Nationall,</hi> I would willingly learne the difference betwixt the <hi>Soveraigntie</hi> wherewith the <hi>Iesuits</hi> invest the <hi>Pope,</hi> and that whereto Mr. <hi>Prynne</hi> doth in<g ref="char:EOLhyphen"/>title the <hi>Parliament.</hi> The one is of <hi>Antichrist,</hi> the other is <hi>Antichristian:</hi> unlesse M. <hi>Prynne</hi> can vindicate it, and himselfe, by some cleere explication.</p>
+               <p n="7">
+                  <pb n="16" facs="tcp:159146:10"/>
+                  <note place="margin">
+                     <hi>Part</hi> 1. p. 5.</note>7. The Title of his first Booke, and the maine Contents of all his Bookes, involve most grosse and pernitious Poperie. The Title is, <hi>The Treacherie of Papists to their Soveraignes.</hi> Of what Papists? To what Soveraignes? Hee telleth them in this Treatise. <hi>Popish Barons, Prelates,</hi> and <hi>Commons,</hi> disavow<g ref="char:EOLhyphen"/>ing King <hi>Iohn: Popish Prelates, Lords and Commons in Parliament</hi> deposing King <hi>Edward</hi> 2. <hi>Richard</hi> 2. and <hi>Henrie</hi> 6. Then he looketh backe before the Conquest, and tells us of <hi>Popish Peeres, Prelates, and Parliaments,</hi> who <hi>trans<g ref="char:EOLhyphen"/>lated the Crowne</hi> from the right heires; instancing in <hi>Edward, Etheldred, Ed<g ref="char:EOLhyphen"/>gar, Etheling, Canutus,</hi> and a copious Catalogue of the same sort. To what purpose are those <hi>Treacherous Popish Parliaments</hi> alledged?<note place="margin">Sov. part <hi>4.</hi> Title page.</note> Hee telleth you that also in the Title page to his fourth Booke, to prove <hi>That the Parliament hath authoritie to deprive their Kings for their misgovernment.</hi> Here Reason will dictate thus much to men of common sense. Whosoever doth cite Po<g ref="char:EOLhyphen"/>pish Treacherous examples, and doth teach men to practise the very actions of those Popish Treacherous examples, his instructions are guiltie of both. So now I cha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge the <hi>Doctrine</hi> of Mr. <hi>Prynne</hi> to bee Poperie yea and (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) Treacherie also.</p>
+               <p n="8">8. To winde up all in one word. The Question Mr. <hi>Prynne</hi> doth dispute through all his Bookes, is plaine and palpable Poperie. <hi>Whether it be lawfull for Subjects to make warre against their King?</hi> The Papists teach they may. The Church of England doth, and ever did teach they may not. Here Mr. <hi>Prynne</hi> doth side with the Papists: and doth make use both of their Autho<g ref="char:EOLhyphen"/>ritie and Arguments.<note place="margin">
+                     <hi>Append.</hi> p. 55. 56, 44.</note>
+                  <hi>Bellarmine</hi> (saith Mr. <hi>Prynne</hi>) and <hi>Suarez,</hi> and other Jesuites, teach <hi>That Subjects may rise up in Armes against their Kings:</hi> and yet he writeth but a few pages before, <hi>That the Bookes of Bellarmine, Suarez, Scioppius, and Mariana</hi> (out of whom Mr. <hi>Prynne</hi> transcribeth such ample <hi>Quotations) were all condemned to be burned by Edicts of Parliaments.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>ibid.</hi> p. 42.</note>When <hi>Henry</hi> 4. King of France was stapped in the mouth by <hi>Chastle,</hi> Mounsier <hi>Daberre</hi> gave him this admonition, <hi>Sir, you have denyed God alrea<g ref="char:EOLhyphen"/>dy with your mouth, and God hath permitted this Iesuite to smite you in the mouth.</hi> O take heed you <hi>Deny him not in your HEART;</hi> lest God permit you to be stabb'd in the <hi>Heart.</hi> Which fell out afterwards accordingly, for hee was stabb'd to death by <hi>Francis Ravillac.</hi> My application of his historie to him shall be briefe, but heartie. Mr. <hi>Prynne</hi> doth teach <hi>some parts</hi> of Popery in his <hi>Booke;</hi> my prayer is that hereafter he doe not embrace <hi>whole Popery</hi> in his <hi>HEART.</hi> For such Zelots too often
+<q>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> —in contraria currunt.</q>
+               </p>
+               <p>Concerning the holy Scriptures; I hoped that Mr. <hi>Prynne,</hi> being a man so learned, would not have beene like the unlearned men mentioned by St. <hi>Peter,</hi> 2 Pet. 3.16. to <hi>wrest</hi> them, &amp;c. But he useth the Scriptures, as some doe the Souldiers; he makes them <hi>fight against the King, nolentes volentes, whether they will or no.</hi> To beginne with the beginning of his first Booke: The que<g ref="char:EOLhyphen"/>stion is,<note place="margin">Opening the great Seale, Title page.</note>
+                  <hi>Whether the Parliament can make a great Seale?</hi> To prove it, Mr. <hi>Prynne</hi> pens a Pamphlet, termed. <hi>The opening of the Great Seale,</hi> to which he prefixeth this Scripture, <hi>Ester</hi> 8.8. <hi>Write you also for the Iewes, as liketh you, in the Kings name, and seale it with the Kings Ring; for the writing which
+<pb n="17" facs="tcp:159146:10"/> it written in the Kings name, and sealed with the Kings Seale may not bee re<g ref="char:EOLhyphen"/>versed. N B. Write as liketh you,</hi> said the King; that is, they will write as liketh them, without the King. <hi>In the Kings name,</hi> that is, in the Parliaments name: and <hi>Seale it with the Kings Ring,</hi> that is, seale it with the <hi>Parliaments Seale: For the writing which is written in the Kings name, and sealed with the Kings Ring, may not be reversed:</hi> that is, all writings which shall hereafter be written in the <hi>KINGS NAME,</hi> and <hi>SEALED</hi> with the <hi>KINGS SEALE,</hi> shall be <hi>VOID</hi> and of <hi>NONE EFFECT.</hi> Is not this the man, thinke you,<note place="margin">Mr. Prynne ibid. epist.</note> who hath <hi>silenced the pennes and tongues of most Anti-Parliamentiers, who have beene so ingenuous, as seriously to peruse the Bookes which he hath written?</hi>
+               </p>
+               <p>But for the supporting of his cause, where the Scripture wanteth waight,<note place="margin">
+                     <hi>Sov. part</hi> 1. p. 38, 39.</note> he will supply it with number. To prove <hi>That the King ought to submit to the Parliament, as to the higher power,</hi> hee doth produce these few and short places of Scripture: 1 <hi>Sam.</hi> 14.38. to the 46 and 29.1. to the 11. 2 <hi>Sam.</hi> 18.2, 3, 4. and 19 1. to the 9. 1 <hi>King.</hi> 12.1. to the 25. 1 <hi>Chron.</hi> 13.1. to the 6. 2 <hi>Chron.</hi> 10. and 11. Chap. 30.2, 3, 5.23. <hi>Ester</hi> 1.13. to the 22. <hi>Ier.</hi> 38.4. to the 28. <hi>Dan.</hi> 6.4. to the 20. <hi>Ionah</hi> 3.7. <hi>Ezra</hi> 10.3.8. <hi>Eccles.</hi> 4.13. <hi>Prov.</hi> 11.14.15.22.25.5. <hi>Ios.</hi> 12.11. to the 34. <hi>Iudges</hi> 20.1. to the 20 This Conclusion (saith he) is most Apparent from these Scriptures. Now, let any man wipe his eyes and looke into these Scriptures: and if he can espy amongst all of them but a word of Parliament, or any word equivalent to a Parliament, or any submission of any King to an Higher Power, or of any submission of a King at all, unlesse by a Gracious Condescending, or by some Rebellious Constraint: and if here bee not <hi>most ignominious imputations</hi> insi<g ref="char:EOLhyphen"/>nuated against his Royall Majestie,<note place="margin">Mr. Prynne part <hi>2.</hi> epist. ibid, part <hi>2. p. 9, 10.</hi>
+                  </note> I will acknowledge Mr. <hi>Prynne</hi> a person fit to be beleeved, when he perswadeth the people to <hi>This Civill Warre.</hi>
+               </p>
+               <p>
+                  <hi>Hosea</hi> 4.6. <hi>My people are destroyed for lacke of knowledge.</hi> —O attend with reverence to the <hi>Glosse of Orleance,</hi> to Mr. <hi>Prynnes</hi> Paraphrase: <hi>Even of the Kings circumscribed Prerògative,</hi> and of <hi>the Parliaments Supreme Vnli<g ref="char:EOLhyphen"/>mited Authoritie.</hi>
+               </p>
+               <p>And concerning the <hi>Cause</hi> we now dispute of, our <hi>Civill Warres,</hi> hee ci<g ref="char:EOLhyphen"/>teth Scripture to that purpose, you may finde this to be the substance of his Argument in the 8. and 9. pages of his second Booke;
+<q>All the people arose against the two Tribes, Ios. <hi>22.11, 12.</hi> and against one Tribe, Iudg. <hi>21.6.</hi> and warre must be made by Counsell, Prov. <hi>20.18.</hi> &amp; <hi>24.6.</hi>
+                  </q> Ergo,
+<q>The Parliament hath the chiefe power in denouncing warre, and conclu<g ref="char:EOLhyphen"/>ding peace.</q>
+               </p>
+               <p>To the like pious purpose he produceth another paire of Scriptures.<note place="margin">
+                     <hi>ibid. part</hi> 2. p. 73, 74.</note> That speech of King <hi>Zedechiah</hi> to his Princes, <hi>Ier.</hi> 38.5. (though in a bad case) is an undoubted veritie here; <hi>Behold, he is in your hand, FOR THE KING IS NOT HEE THAT CAN DOE ANIE AGAINST YOV.</hi> And likewise that of King <hi>David,</hi> 2 <hi>Sam.</hi> 18.3. and 4. <hi>WHAT SEEM<g ref="char:EOLhyphen"/>ETH TO YOV BEST THAT I WILL.</hi> Hee might have added a third place, 2 <hi>Sam.</hi> 3.36.</p>
+               <pb n="18" facs="tcp:159146:11"/>
+               <p>
+                  <note place="margin">
+                     <hi>Soveraignty, part</hi> 3. p. 18.</note>Againe, he proveth this Warre from <hi>Psal.</hi> 149.6, 7, 9, 8. <hi>To binde their Kings with Chaines, and their Nobles in Fetters of Iron, this Honour</hi> (this PRIVILEDGE in such cases) <hi>HAVE ALL THE SAINTS.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>ibid. part</hi> 3. p. 65.</note>And an admirable argument he inforceth to disswade the Kings Souldiers from <hi>obeying his Military Commands,</hi> from 2 <hi>Iohn</hi> 10.11. <hi>If there come any unto you</hi> (be he an <hi>Archbishop, Bishop,</hi> a <hi>DEANE, FERNE</hi> himselfe, or any <hi>Court-Chaplaine</hi> whatsoever) <hi>and bring not THIS DOCTRINE, re<g ref="char:EOLhyphen"/>ceive him not into your house, neither say unto him GOD SPEED; for hee that biddeth to him God speed, is partaker of his evill deeds.</hi> I shall apply it (saith Mr. <hi>Prynne) They are partakers of the KINGS WICKEDNES, if they doe but entertaine their unjust Commissions into their houses, or bid them God speed.</hi>
+               </p>
+               <p>Next, to perswade the people to pursue their Warre against the King, Mr. <hi>Prynne</hi> doth present them with some precious Presidents out of Scripture. That this Resistance of our King is lawfull,<note place="margin">
+                     <hi>ibid. part</hi> 3. p. 76, 77.</note> he proveth it <hi>ab exemplis;</hi> by an argument drawne from the Revolt of the Ten Tribes from <hi>Rehoboam;</hi> from the Rebellion (it is his very word) of <hi>Moab</hi> against the <hi>King</hi> of <hi>Israel,</hi> and from the Rebellion of the Kings of Israel, <hi>Iehoiachim,</hi> and <hi>Iehojacin</hi> against the Kings of Babylon. Then, well fare his ingenuitie yet, he telleth the People plainly what he perswadeth them to: nothing but <hi>Rebellion:</hi> and it is hoped that all the Godly Rebels will be perswaded by him.</p>
+               <p>
+                  <note place="margin">
+                     <hi>ibid,</hi> p. 136. 137.</note>Finally, to <hi>Confirme the Covenant,</hi> hee citeth moe then twentie Texts of Scripture. But observe: all of these are Covenants which the King and the People made with God: but not one is there mentioned which the People made without their King, nay against their King. Which is our case, <hi>&amp; car<g ref="char:EOLhyphen"/>nificina conscientiae Christianis in Anglia;</hi> the heaviest burden that ever was laid upon poore soules in England. To command men to sweare against their Conscience, and against their King: and to answer this dreadfull Dilemma! <hi>Be either plundered or perjured.</hi>
+               </p>
+               <p>
+                  <note place="margin">7.</note>It is high time for the People to examine this mans Perswasion unto Ci<g ref="char:EOLhyphen"/>vill Warre; for as much as their perswader doth perswade them to High Treason, by High Treason.</p>
+               <p>Now Treason should be in our time, as Incest was in old time. Treason should not so much as be named amongst Christians, not amongst Protestant Christians, above all not amongst English Protestant Christians. But I charge Mr. <hi>Prynnes</hi> Bookes to be so fraught with Treasonable positions, that if Trea<g ref="char:EOLhyphen"/>son were lost in the land, it might be found in this Treatise. Yea, it is no un<g ref="char:EOLhyphen"/>justifiable Hyperbole to affirme, That there are as many passages of Treason as there are pages in Mr. <hi>Prynnes</hi> Pamphlet. I will instance in some few, ma<g ref="char:EOLhyphen"/>king them my Finger to point at the rest. My Preface to the zealous Disci<g ref="char:EOLhyphen"/>ples of this fervent <hi>Rabbi</hi> is onely this; <hi>Brethren beware of</hi> TREASON.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Sover. part</hi> 3. p. 1.</note>
+                  <hi>Subjects may beare Armes against our King.</hi>
+               </p>
+               <p>This question which he doth defend, can hardly be defended from this que<g ref="char:EOLhyphen"/>stion, is it not Treason? For some say, there is some such Statute <hi>Edw.</hi> 3.21. as this, <hi>To take up Armes against the King is Treason.</hi>
+               </p>
+               <p>In these Bookes I meet Mr. <hi>Prynne</hi> speaking such Phrases, that I can hardly
+<pb n="19" facs="tcp:159146:11"/> refraine to say, <hi>Surely thou art a Tr for thy speech bewrayeth thee.</hi> Whether they sound out plaine Treason, I leave it to the learned in Law: Sure I am I finde no such words in our Lexicon of Loyaltie.</p>
+               <p>The Forts, Armes, and Navie,<note place="margin">
+                     <hi>Sover.</hi> p. 5, 11, 12.</note> are his Majesties onely in point of possessi<g ref="char:EOLhyphen"/>on, not in the point of Right. All the Military affaires are the Parliaments in the disposing part, the ministring part onely is for the King; who is but one<g ref="char:EOLhyphen"/>ly the <hi>Kingdomes Generall</hi> for the Warres. Mr. <hi>Prynne</hi> useth the King, <hi>Charles,</hi> as magisterially as <hi>Marcus Cato</hi> did the Romane Sergeants:<note place="margin">Bodin. de Rep. l. <hi>3.</hi> c. <hi>10.</hi>
+                  </note>
+                  <hi>Vos ve<g ref="char:EOLhyphen"/>strae conditionis memores esse decuit.</hi> Sir, I will make you know your selfe; <hi>nec Magistratus sed Ministros esse;</hi> that you are not the Magistrate, but the Mi<g ref="char:EOLhyphen"/>nister of this Kingdome.</p>
+               <p>The Parliament hath authority to recommend and nominate Counsellors and Officers to the King, when and where they see just cause.<note place="margin">
+                     <hi>Sover. part</hi> 2. p. 45. 75. <hi>part</hi> 3. p. 3. <hi>part</hi> 1. p. 16. <hi>part</hi> 3. p. 7, 8, 22.</note>
+                  <hi>The Royall assent to publique Bills, is but a Formall Ceremonie.</hi> The Parliament ought to bridle the King, when the King casts off the Bridle of the Law. The King may not dissolve the Parliament; which once was called Treason by a Parlia<g ref="char:EOLhyphen"/>ment, 21 <hi>Richardi</hi> 2. <hi>The subjects may take up Armes against the King him<g ref="char:EOLhyphen"/>selfe.</hi> They may call in forraigne Princes, although Forraigne Armes most commonly endanger the Crowne. To kill the King in this defensive Warre in Battell is no Treason. Now all these names and offices are somewhat sub<g ref="char:EOLhyphen"/>ordinate, and seeme to supplant in some sort the Supremacie; to the acknow<g ref="char:EOLhyphen"/>ledging and supporting whereof, Mr. <hi>Prynne</hi> I suppose hath taken an Oath; and therefore he may sweare, that there is something which doth savour of Treason.</p>
+               <p>Adde hereunto the Title Page of his 2. Booke,<note place="margin">ibid. part <hi>2.</hi> Title page.</note> viz. <hi>The Parliaments power over the Militia, Forts, Ports, Navies, and Ammunition of the Realme.</hi> Their Right to elect all Commanders, to make choice of the Lord Chancellor, Kee<g ref="char:EOLhyphen"/>per, Treasurer, Privie Seale, Privie Councellors, Judges and Sheriffes of the Kingdome. And That the King hath no Negative voice. When both Hou<g ref="char:EOLhyphen"/>ses deeme it necessary, what is left to the King? <hi>Nay aske for them the King<g ref="char:EOLhyphen"/>dome also,</hi> 1. <hi>Reg.</hi> 2.22. Mr. <hi>Prynne</hi> would make the King of England like the <hi>Lacedemonian</hi> King, and the Duke of Venice,<note place="margin">Bod. de Rep. l. <hi>2.</hi> c. <hi>10.</hi> fol. <hi>181.</hi>
+                  </note> to have <hi>ne quicquam praeter Re<g ref="char:EOLhyphen"/>gium nomen,</hi> nothing but the name of a King; <hi>&amp; Majestatis splendorem, sed sine potestate,</hi> and to have the glory, without the power of Majestie. And thus Mr. <hi>Prynne</hi> doth strip our Lord the King of all his Prerogatives, in his very Title Page; leaving not one Title of Honour to him, nor one Tittle of Honestie to himselfe.</p>
+               <p>It will be said by some these are harsh speeches: yet they may bee molli<g ref="char:EOLhyphen"/>fied by a faire interpretation. Wherefore Mr. <hi>Prynne</hi> doth present you with certaine Presidents which speake Treason plainly, without any Parables.</p>
+               <p>The Romane Senate commanded <hi>Pompey</hi> to raise an Armie against <hi>Caesar,</hi>
+                  <note place="margin">
+                     <hi>Sov. part</hi> 3. p. 3.</note> — <hi>Caesar</hi> after the Conquest of <hi>Pompey</hi> refusing to rise op to the Senate, out of his Pride, and through his Evill Counsellours advice—they con<g ref="char:EOLhyphen"/>spired his death, and soone after murthered him in the Senate-house. <hi>Chil<g ref="char:EOLhyphen"/>dricke</hi> King of France was deposed by his Subjects generall consent,<note place="margin">
+                     <hi>part</hi> 1. p. 36, 37.</note> because he was unable to governe. The Kings of Israel and Judah were not onely
+<pb n="20" facs="tcp:159146:12"/> counselled, but over-ruled by the Assembly of the People in matters of pub<g ref="char:EOLhyphen"/>like concernment:<note place="margin">
+                     <hi>Part</hi> 4 p. 136, 137.</note> yea Gods inhibition of idolatry under paine of capitall punishment, extendeth to <hi>Kings.</hi> There are also to be put to death, small and great, man and woman, <hi>Not the King and Queene excepted.</hi> And in the anci<g ref="char:EOLhyphen"/>ent times,<note place="margin">
+                     <hi>Pag.</hi> 15. <hi>Pag.</hi> 13. 14, 15, 16, 17.</note> and publike institution of the Slavonians, the Assassinates of evill Kings should succeed them in their Kingdomes. In those ancient times, their King were governed, punished, fined, kept single, deposed, killed, yea by <hi>Famine,</hi> by their <hi>Priests, Senate, People.</hi> In truth, these Forreigne Exam<g ref="char:EOLhyphen"/>ples are too farre off, to be brought home for Presidents to our English Prin<g ref="char:EOLhyphen"/>ces: howbeit <hi>verbum sapienti,</hi> our wise people understand their Masters meaning well enough.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Sov. part</hi> 2. p. 53.</note>But English Presidents are more to the purpose, when the dispute is of the KING of England: with examples of that nature M. <hi>Prynne</hi> doth furnish us very sufficiently. By the advice (saith he) and counsell of the Lords in the reigne of <hi>Edward</hi> 2. the <hi>Duke of Aquitane</hi> was made High Keeper of Eng<g ref="char:EOLhyphen"/>land; and as to the <hi>Custos</hi> of the same they did sweare Fealtie. There is an<g ref="char:EOLhyphen"/>other example a little before this, which is farre before this: In a Par<g ref="char:EOLhyphen"/>liament at Oxford 1258.<note place="margin">
+                     <hi>ibid. part</hi> 2. p. 51.</note> they required that twelve persons <hi>(D<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>z<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Peeres</hi>) should be chosen to have the whole Administration of the King and Kingdome (by reason of the Kings misgovernment) and that the yearly ap<g ref="char:EOLhyphen"/>pointing of all great Officers, reserving to the King onely the highest place at publike meetings and salutations of honour in publike places. To which Arti<g ref="char:EOLhyphen"/>cl s the King and Prince <hi>Edward</hi> out of feare did subscribe: —and they made all that would abide in the Kingdome to sweare to them. Good M. <hi>Prynne</hi> make a good application of this.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Append.</hi> p. 152</note>Here is not all. Our Ancestors (saith he) have not onely constrained our Kings by threats, yea force of Armes to summon and continue Parliaments, but likewise compelled them to give their Royall Assent: which forced as<g ref="char:EOLhyphen"/>sent hath beene held good in Law. The States of the Realme oft times pre<g ref="char:EOLhyphen"/>ferred a Kinsman before a Sonne, a second sonne before the Eldest: yea the same Kingdome by the Authority of the People, hath beene translated from one Nation and Familie to another.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Mr. Prynne part</hi> 1. p. 8.</note>M. <hi>Prynne</hi> hath premised to these a paire of unparalleld Presidents, of <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> and <hi>Richard,</hi> both the second. The Lords raised an Army and marched towards Newcastle, <hi>Not to offer injury to the King, but that they might appre<g ref="char:EOLhyphen"/>hend Piers Gaveston,</hi> &amp;c. Afterwards, the Londiners send word to the King, <hi>Edward</hi> 2. That they honour the King, but resist Traitors. The Lords pursu<g ref="char:EOLhyphen"/>ed the King to Bristoll, where the elder <hi>Spencer</hi> was taken prisoner, and hang<g ref="char:EOLhyphen"/>ed without triall. The King, fleeing into Wales, was taken, and by the Lords in Parliament forced to resigne the Crowne: and soon after he was murthe<g ref="char:EOLhyphen"/>red in Barkley Castle.<note place="margin">
+                     <hi>ibid. part</hi> 1. p. 10.</note>
+                  <hi>Richard</hi> 2. raised an Army against the Barons; many of whom answered, that they would not stand against the Lords, whom they knew for certain intimately to love the King, and to endeavour all things, and to study all things, and to do all things for his Honour. The Lords being de<g ref="char:EOLhyphen"/>manded by the King. <hi>Why they assembled in a warlike manner,</hi> contrary to the Law? They answered, they were so assembled for the good of the King<g ref="char:EOLhyphen"/>dome,
+<pb n="21" facs="tcp:159146:12"/> and to weed Traytors from about him: Afterwards the Nobles sent the King word, if he would not come to Westminster, they would chuse an<g ref="char:EOLhyphen"/>other King, who should obey the counsell of the Peeres. The King being come, the Nobles said; <q>For his honour, and benefit of his Kingdome, they would banish out of his Court, Traitors, &amp;c. and substitute such as should serve him more faithfully. So they imprisoned the Archbishop of Yorke, the Bishop of Durham, and other Nobles, the Judge, and cut the throat of the chiefe Justice.</q> After this the Duke of <hi>Lancaster</hi> raised an Army of 60000. to prosecute the Kings Evill Counsellours. And finally, by a Parlia<g ref="char:EOLhyphen"/>ment summoned, though in his name, against his will, he was <hi>judicially depo<g ref="char:EOLhyphen"/>sed. Dic sodes!</hi> say sooth pious M. <hi>Prynne,</hi> would you have His Majesty handled after these Examples?</p>
+               <p>Moreover,<note place="margin">
+                     <hi>Sov. part</hi> 1. p. 5.</note> he doth not give us onely two or three Examples to tast of his Affection to His Majesty; but he feedeth us with abundance, <hi>ad nauseam us<g ref="char:EOLhyphen"/>que,</hi> till a man loath them. The Nobles disavowing King <hi>Iohn,</hi> elected <hi>Lewis</hi> of France, Anno 1327. they deposed <hi>Edward</hi> 2. and elected <hi>Edward</hi> 3. his sonne. <hi>Anno</hi> 1462. <hi>Henry</hi> 6. Queene <hi>Margaret,</hi> and Prince <hi>Edward</hi> their sonne by Parliament were dis-inherited, and <hi>Edward</hi> 4. made King. And af<g ref="char:EOLhyphen"/>terwards <hi>Henry</hi> 6. was recrowned, and <hi>Edward</hi> 4. declared a Traytour. And not long after <hi>Edward</hi> 4. taking <hi>Henry</hi> 6. prisoner, caused him to be murther<g ref="char:EOLhyphen"/>ed in the Tower. Another Parliament <hi>Anno</hi> 1472. abrogated King <hi>Henries</hi> Lawes, and re-established King <hi>Edward.</hi> Secondly, Parliaments have trans<g ref="char:EOLhyphen"/>lated the Crowne from the right Heires, and setled it on others, who had no Title to it. Thus they elected <hi>Edward</hi> who was illegitimate, and put by <hi>E<g ref="char:EOLhyphen"/>thelred</hi> the right Heire, <hi>Anno</hi> 975. They elected <hi>Canutus</hi> a Forreigner in opposition to <hi>Edward</hi> the right Heire, <hi>Anno</hi> 1016. <hi>Harold</hi> and <hi>Hardi-Knute</hi> both elected Kings, successively without Title, <hi>Edmund</hi> and <hi>Alfred</hi> the right Heires being dispossessed, and the latter tortured to death, <hi>Anno</hi> 1036, 1040. <hi>Edgar Etheling</hi> was rejected, and <hi>Harold</hi> chosen, <hi>Anno</hi> 1087. <hi>Robert</hi> was rejected, and <hi>William Rufus</hi> was chosen. After him <hi>Henry</hi> I. the younger brother was crowned by the Nobility and Commons; who refused to admit any King, but on their owne Capitulations. So was it with <hi>Iohn, Henry</hi> 4. <hi>Edward</hi> 4. and <hi>Richard</hi> 3.</p>
+               <p>If any will wash the Black-Moore white, and excuse M. <hi>Prynne,</hi> that he de<g ref="char:EOLhyphen"/>livereth all these Examples, onely historically;<note place="margin">
+                     <hi>ibid. part</hi> 1. p. 10.</note> but that he determineth no<g ref="char:EOLhyphen"/>thing Dogmatically. <hi>Credat Iudaeus Appella,</hi> M. <hi>Prynne</hi> himselfe (I am per<g ref="char:EOLhyphen"/>swaded) doth not believe it: Let himselfe say: Wherefore doth he then print such Presidents, under such a Title, as, <hi>The Soveraigne Power of Parlia<g ref="char:EOLhyphen"/>ments?</hi> Consider withall his <hi>Epiphonema,</hi>
+                  <note place="margin">
+                     <hi>ibid.</hi> p. 8.</note> his additionall Approbation to the Trayterous Murder of King <hi>Edward</hi> 2. in Barkley Castle. And so (saith M. <hi>Prynne</hi>) the sicknesse and wounds, which this Common-wealth susteined by his <hi>Ill Reigne,</hi> upon the change of the Physitian, received not onely health, but beauty also and ornament: and he applaudeth that stile which was then given to those bloudy Tragedies: that they were called <hi>Zelatores Reipubli<g ref="char:EOLhyphen"/>cae,</hi> the Zelots of the English Republike. Notwithstanding, heare this loyall Subject deliver his definitive sentence of the Kings Majesty.</p>
+               <pb n="20" facs="tcp:159146:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:159146:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="22" facs="tcp:159146:14"/>
+               <p>
+                  <note place="margin">
+                     <hi>Sov. part</hi> 3. p. 8 <hi>part</hi> 4 p. 9.</note>The King (saith he) may become a Traitor to the Realme, and so forfeit his Crowne. Here you must understand that this name Traytour is like the word Peace, <hi>Luke</hi> 10.15, 16. <hi>When any Treason is in this house, if the sonne of Treason be there, the accusation of Treason will rest there: but if the sonne of Treason be not there, it will returne to the accuser.</hi> Now our King, both in regard of his high calling, and holy conversation, is not capable of so foule in aspersion. Therefore loyall Mr. <hi>Prynne</hi> may not bee liberall of his owne, to bestow it on whom he list; he must take the title Traytor home, it will dwell in his house, and be buttoned in his doublet.</p>
+               <p>This judicious man doth pen his approbation to High Treason, of as high a nature as ever man did that set pen to paper before him. And then hee per<g ref="char:EOLhyphen"/>swades the people that all Morall men, Englishmen, and ancient Christian men are of his judgement.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Append.</hi> p. 186</note>If Kings shall degenerate into Tyrants, invade the Lawes and Liberties of the people; the Parliament and People may without any guilt of Treason, Rebellion, or Sedition lawfully resist them by force of Armes, and are obli<g ref="char:EOLhyphen"/>ged under paine of perfidiousnesse and treacherousnesse to their Country, thus to resist, and in case of incorrigibilitie, may justly depose them, as enemies or Traytors to their Kingdome and People. In another place he doth presse the same point; with a strange Diminution of the Kings power, and Augmenta<g ref="char:EOLhyphen"/>tion of the power of Parliaments.<note place="margin">
+                     <hi>part</hi> 3. p. 121, 122.</note> Kings (saith he) are resistible, censurable, and deprivable, and liable to all kindes of punishment (by their whole King<g ref="char:EOLhyphen"/>domes consent in Parliament) as any Bishop, Priest, &amp;c. And Kings and Kingdomes are not so Gods ordinance, as uncontroulably to continue the So<g ref="char:EOLhyphen"/>veraigntie in one Family alone, and not to be able to transferre it to another, when the whole State shall see cause.</p>
+               <p>Though this generall doth include the English also; yet he commeth nearer to our cause and Kingdome of England in particular. If Kings become pro<g ref="char:EOLhyphen"/>fessed Idolaters,<note place="margin">
+                     <hi>Sov. part</hi> 3. p. 101. <hi>Ibid.</hi>
+                  </note> though private persons may not murther them, as <hi>Iehu:</hi> yet the Representative Body, or greater part of their Kingdomes (as many pi<g ref="char:EOLhyphen"/>ous Divines doe affirme) may lawfully convene, depose, if not judge them capitally for it. And he sheweth a worthy warrant for their wondrous Au<g ref="char:EOLhyphen"/>thoritie over Kings. Gods putting zeale and courage into their hearts, and ex<g ref="char:EOLhyphen"/>citing them by his faithfull Ministers to such a proceeding, is a sufficient Di<g ref="char:EOLhyphen"/>vine Testimonie to satisfie their Conscience. Hee instanceth in <hi>Henry</hi> the 4. who taking up Armes against <hi>Richard</hi> the second,<note place="margin">
+                     <hi>ibid.</hi> p. 4.</note> and causing him judicially to bee deposed by Parliament, for his mal-administration: it was enacted 1 <hi>Henr.</hi> 4.2. That this was done for the common profit of the Realme. If those who in this Offensive Warre to depose this perfidious King▪ seduced by Evill Counsellors— deserved an immunitie from all kinde of punishments —because their intention was for the Common Profit of the Realme— no doubt this present Defensive Warre against Papists, Delinquents, and E<g ref="char:EOLhyphen"/>vill Counsellors, cannot be interpreted any Treason, in Law or Conscience.</p>
+               <p>Besides this, he confirmes his assertion with many instances, in a few lines; Our Parliaments have taken our Kings prisoners, expelled, nay deposed them. viz. <hi>Iohn, Henry</hi> 3. <hi>Edward</hi> 1. <hi>&amp;</hi> 2. <hi>Richard</hi> 2. <hi>&amp; Henr.</hi> 6. which actions
+<pb n="23" facs="tcp:159146:14"/> have alwayes beene reputed lawfull, though Royallists and Parasites teach the contrary.</p>
+               <p>And to countenance <hi>The Cause,</hi>
+                  <note place="margin">
+                     <hi>Append.</hi> p. 186, 187.</note> be calleth the Primitive Christians into con<g ref="char:EOLhyphen"/>currence with him in his opinion. <hi>Libanius</hi> writeth on this manner of that pas<g ref="char:EOLhyphen"/>sage of <hi>Sozomen, lib.</hi> 6. <hi>cap.</hi> 2. he seemeth to say that the SLAYER of <hi>Iulian</hi> was a Christian: which peradventure was true. Neither is it incredible, that some ONE of the Souldiers, who had marched under his command, had con<g ref="char:EOLhyphen"/>sidered these things thus in his mind, that not onely the Heathens, but likewise all others were wont to applaud those, even to our age, who slew Tyrants here<g ref="char:EOLhyphen"/>tofore. Heare now <hi>M. Prynnes</hi> inference: a pregnant evidence, that even the Primitive Christians (on whose example our Antagonists doe so much depend) held I lawfull to SLAY persecuting Apostatized Tyrants, bent to subvert Re<g ref="char:EOLhyphen"/>ligion, Law and Liberty.</p>
+               <p>
+                  <hi>Socrates</hi> when he read <hi>Plato's</hi> Treatise termed <hi>Phaedrus,</hi> complained,<note place="margin">Bodin. de Rep. l. <hi>2.</hi> c. <hi>1.</hi> fol. <hi>182.</hi>
+                  </note>
+                  <hi>Quam multa de me mentitur Adolescens?</hi> how doth this young Scholler abuse me by his false Quotations? Did the Primitive Christians survive, or could they re<g ref="char:EOLhyphen"/>vive they would take up the like complaint against <hi>M. Prynne, Quam multa de nobis mentitur?</hi> How monstrously doth he belie us, saying, <q>That the Primi<g ref="char:EOLhyphen"/>tive Christians held it lawfull to SLAY their persecuting Princes.</q> Yea, <hi>Fals<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> witnesse is risen up: they have laid to our charge things that we knew not</hi> Psal. 35.11.</p>
+               <p>Here againe will I end this point, with the beginning of one of M. <hi>Prynnes</hi> Books. Thus may you read his loyalty in his Title-page to his <hi>Appendix.</hi>
+                  <note place="margin">Append. Title Page.</note>
+                  <q>Ma<g ref="char:EOLhyphen"/>nifesting by ancient Histories, that in the Graecian, Romane and Germane Empires; and in the Graecian, Indian, Aegyptian, French, Spanish, Gothish, Italian, Hungarian, Polonian, Bohoemian, Danish, Swedish, Scottish and o<g ref="char:EOLhyphen"/>ther Kingdomes, the Parliament, State and People have AVTHORITY, not onely to restraine, resist, yea to call their Emperours and Kings to Ac<g ref="char:EOLhyphen"/>count, but likewise, when they saw just cause, to censure, suspend, and DE<g ref="char:EOLhyphen"/>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>IVE them for their tyrannies, vices, misgovernment: and sometimes CAPITALLY to proceed against them.</q>
+               </p>
+               <p>It appears that this man of much Reading hath made this progresse through many Historians, wherein his care hath been like that of a diligent Spie through a Countrey, into which he meaneth to conduct an enemie. He hath read, and doth alledge these many Forraigne Histories onely to incourage our people (not able to examine his Authorities) to this bloudie Civill Warre, to the ruine (if the Lord avert it not) both of King and Kingdome.</p>
+               <p>When <hi>Diogenes</hi> once saw a youth mis-behaving himselfe, he smote his Tutor, saying, <hi>Cur non tu melius instituisti eum?</hi> Why diddest thou teach him no bet<g ref="char:EOLhyphen"/>ter? So the time will come, that when our people have been murdered enough, some body will smite <hi>M. Prynne,</hi> saying; <hi>Cur tam male tu instituisti eum?</hi> Why hast THOU (the popular Doctor) TAUGHT the PEOPLE thus bar<g ref="char:EOLhyphen"/>barously to kill one another?</p>
+               <p>The Apostle in his Epistle to <hi>Titus</hi> telleth us of a strange, but just judgment <milestone type="tcpmilestone" unit="unspecified" n="8"/> of the Lord, upon Heretikes. An Heretike is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note place="margin">Tit. 3.10.</note> condemned of him<g ref="char:EOLhyphen"/>selfe: M. <hi>Prynne</hi> being an Heretike both Ecclesiasticall and Politicall; it must
+<pb n="24" facs="tcp:159146:15"/> be the remnant of my Discourse to relate how he is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, how he doth condemne his owne Opinions in his owne Writings; and confesse our Cause which he would overthrow, with so voluminous a confutation.</p>
+               <p>There are foure maine points of difference betwixt the two Parties; <hi>For,</hi> and <hi>Against</hi> the KING; concerning our <hi>Church, Lawes, Parliament,</hi> and <hi>Warres.</hi> If I now can make it appeare out of His Books, that his own Breath, like that wind from the Wildernesse in <hi>Iob,</hi>
+                  <note place="margin">Job 1.19.</note> doth smite these foure corners, I doubt not but that which is built on them, the popular Admiration of his Writings, will fall, into an ordinary, and its just estimation.</p>
+               <p n="1">I. The first Controversie and it is a great one, is concerning our <hi>Church-Go<g ref="char:EOLhyphen"/>vernment:</hi> Whether we should retain that Old one, which hath been in our Land the age of <hi>Methuselah,</hi> and halfe as much more; or, Whether we should receive that New one, late born in Geneva, or new-born in Scotland, or unborne, yet in the braines of some in England.</p>
+               <p>
+                  <note place="margin">Append. p. <hi>7.</hi>
+                  </note>That we should walk in the <hi>old</hi> and <hi>good way, M. Prynne</hi> doth commend (and I here recommend) to all Christians two rare Actions of two rare Bishops. <hi>A<g ref="char:EOLhyphen"/>nastasius Decori</hi> being elected Emperour after <hi>Zeno's</hi> death, <hi>Euphemius</hi> the Pa<g ref="char:EOLhyphen"/>triarch of Constantinople, before he would crowne him, exacted of him a Con<g ref="char:EOLhyphen"/>fession of his Faith in writing, wherein he should promise, <hi>That he would not in<g ref="char:EOLhyphen"/>novate in Ecclesiasticall Doctrines,</hi> &amp;c. The other, when <hi>Michael Rungabis</hi> was elected Emperour and came to be crowned, <hi>Nicephorus</hi> the Patriarch first requi<g ref="char:EOLhyphen"/>red of him a Confession of his Faith in writing, wherein he should promise, <hi>That he would violate no Ordinances of the Church.</hi>
+               </p>
+               <p>
+                  <hi>M. Prynne</hi> doth tell us moreover, in many passages of his first Booke, That the <hi>Magna Charta</hi> (which is the chief part of the Inheritance of all free-borne English) doth principally confirme the Priviledges of the Church.<note place="margin">
+                     <hi>Sov. Parliam. part</hi> 1. p. 26, 27, 128. <hi>part</hi> 1. <hi>p.</hi> 3.</note>
+               </p>
+               <p>Finally, the forme of the Kings Coronation, ever since <hi>Edward the Confessor,</hi> hath been this: <q>The Metropolitan, that is to crown him, shall interrogate him, If he will confirme with an OATH, the Lawes and Customes granted to the people of England, by ancient just and devout Kings but especially the Laws, Customes and Liberties granted by glorious King <hi>Edward</hi> to the Clergie and People:<note place="margin">
+                        <hi>Ibid. part</hi> 2. p. 67.</note>
+                  </q> whereof he giveth an Instance: the Oath of King <hi>Edward</hi> 6. at his Coronation; <q>Do you grant to make no NEW Lawes, but such as shall be to the honour and glory of God, and good of the Common-wealth?</q> And a clause in another OATH is, "To keep the Franchises granted to the Clergy.</p>
+               <p>We therefore, make it our Plea and prayer to the Honourable Houses, that we may still live in our ancient Church-government, under which we have injoyed so many Nestorian years, and Halcionian dayes. Because the Gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cian Church doth commend it, our English Lawes do confirme it, and our Kings of England have sworne it. And <hi>M. Prynne</hi> is our Advocate, who hath furnished us with these Arguments in his learned Writings.</p>
+               <p n="2">II. Concerning our Lawes: (though it stumble us a little, it shall not stay us much) This blemish which M. <hi>Prynne</hi> casts upon our Grand Law,<note place="margin">
+                     <hi>part</hi> 2. p. 8.</note> the <hi>Mag<g ref="char:EOLhyphen"/>na Charta</hi> of England, is observable. M. <hi>Prynne</hi> tells us, The Parliament by force of armes compelled K. <hi>Iohn</hi> and <hi>Henry</hi> 3. to confirm <hi>Magna Charta:</hi> and for better maintenance of them, they elected 25. Barons, to be Conservators of
+<pb n="25" facs="tcp:159146:15"/> their Priviledges, who took an Oath, <hi>ut Regem cogerent,</hi> that they would com<g ref="char:EOLhyphen"/>pell him, if he should not observe them. Now most of the people thought hi<g ref="char:EOLhyphen"/>therto, that, That Fundamentall Law of England, the <hi>Magna Charta,</hi> had been our lawfull, indisputable, indubitable inheritance; if not originally from the Right of the People, yet at least derivatively, from the Grace of our Princes. But when they shall understand, that our interest to our prime Priviledges de<g ref="char:EOLhyphen"/>pend upon Force and compulsion, it will smite simple men with the fear of vain proverbs and predictions: That which is gotten by force, may be lost by force. Wherefore, <hi>Speake I pray thee to thy servants, in the Syrian language (for we understand it) and talke no more (of these things) in the Iewes language, in the eares of the people,</hi> 2 King. 18.26.</p>
+               <p>To the point. The Law of this Land is the grand priviledge of the Subject: to it, and to none but it, do we owe our Obedience. The King doth professe, that he will rule onely according unto Law: and indifferent men account it an indifferent thing, that the Two Houses should meet His Majesty in the same profession: So that, neither the King should have power to make New Lawes, or break Old Lawes, without the Houses, nor the Houses without the King. That nei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> er the King nor the Houses, nay not the King and the Houses, should have aut<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ority to command or punish any Subject contrary to Law.</p>
+               <p>It may be inquired, What Lawes are they to which we lay claime, to be the Rule of the King and Parliament, and the protection of the People? Generally, All our knowne Lawes: but principally for the Peoples protection, the first and great Law is our <hi>Charta Magna:</hi> the second is like unto this, <hi>The Petition of Right:</hi> in reference unto which, many poore Subjects, since these unhappy Wars, have complained, that they have been taxed and imprisoned contrary to those Lawes, the <hi>Magna Charta,</hi> and the <hi>Petition of Right.</hi>
+                  <note place="margin">
+                     <hi>Sov. Parl. part</hi> 4. p. 14, 15.</note> To which comp<g ref="char:EOLhyphen"/>plaint M. <hi>Prynne</hi> is very briefe in his answer: <q>That the Parliament is abso<g ref="char:EOLhyphen"/>lute Soveraigne over <hi>Magna Charta,</hi> and all other Lawes.</q>
+               </p>
+               <p>Here, as that woman appealed from <hi>Alexander,</hi> to <hi>Alexander;</hi> from <hi>Alexan<g ref="char:EOLhyphen"/>der</hi> who then was drunk, to <hi>Alexander</hi> when he was sober: so we appeal from <hi>M. Prynne,</hi> to <hi>M. Prynne;</hi> from <hi>M. Prynne</hi> drunk with popularity, to <hi>M. Pryn</hi> sobered with a short sleep of forgetfulnesse. It may be, whilest he was inditing his learned Lucubrations, he dropt into a compendious slumber, and so somthing dropt from his pen (which he dreamed not of) which is for the confirming of our Cause and Complaint, which he then so peremptorily condemned.</p>
+               <p>
+                  <hi>An.</hi> 18. <hi>Edw.</hi> 3. <hi>Stat.</hi> 3. 20. <hi>Edw.</hi> 3. <hi>c.</hi> 1.<note place="margin">
+                     <hi>part</hi> 1. p. 79. <hi>part</hi> 2. p. 65.</note> The Judges are sworn to do even Law to all Subjects, without letting or delaying to doe right for any Letters, Writs, or Commandments, that shall come to them from the KING, or ANY OTHERS. Now, ordinary capacities conceive, that this phrase, <hi>Any Others,</hi> doth involve the two Houses, and that so prisoners may sue out an <hi>Habeas Cor<g ref="char:EOLhyphen"/>pus.</hi> And if he writeth as he thinketh, this learned Lawyer doth subscribe to that ancient Law which he doth transcribe out of the Law-books of the Vis-Goths, <hi>viz. Quod tam Regia potestas,</hi>
+                  <note place="margin">par. <hi>4.</hi> Append. p. <hi>51.</hi>
+                  </note>
+                  <hi>quam populorum Vniversitas Legum reve<g ref="char:EOLhyphen"/>rentiae sit subjecta:</hi> that is, both the King, and the Vniversality of the people (their Representative certainly is here included) should be subject to (not above) the Laws. And many poor people would gladly pray M. <hi>Prynne,</hi> that he would
+<pb n="26" facs="tcp:159146:16"/> plead in their behalfe before the High Court of Parliament, that he might penne their Warrants against Delinquents, in the phrase of that president alledged by himselfe,<note place="margin">
+                     <hi>Ap.</hi> p. 161.</note>
+                  <hi>Antiochus</hi> the 3. King of Asia, who wrote to all the Cities of his Kingdome, if there should be any thing in his Letters <hi>contrary to the Lawes they should not obey them.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>Part</hi> 1. p. 31.</note>Mr. <hi>Prynne</hi> moreover relateth a received Law Maxime out of <hi>Bracton,</hi> that great Lawyer, <hi>Leges ligant suum latorem:</hi> that is, The Law obligeth him or them who have the legislative power: so that neither King nor Parliament, no not the King in Parliament (that is, the Parliament properly so called) have power to command or punish the subjects contrarie to Law.</p>
+               <p>I must shut up this point with a sowre sentence out of Mr. <hi>Prynne;</hi> but hee can sweeten it by a distinction, surpassing the capacitie of illiterate Court Do<g ref="char:EOLhyphen"/>ctors.<note place="margin">
+                     <hi>Ib.</hi> p. 170.</note> We are taught by him, that if the Honourable Houses command or pu<g ref="char:EOLhyphen"/>nish contrarie to the Law, that the King is bound by Oath to protect us. His words are these. <hi>Kings are most solemnly obliged by an</hi> OATH <hi>at their Coro<g ref="char:EOLhyphen"/>nation, to</hi> PRESERVE <hi>their peoples</hi> LAWES, LIBERTIES, LIVES, ESTATES: (with a <hi>Sub poena</hi> with a witnesse) <hi>by breach whereof in a wilfull manner they became periured Tyrants, and the</hi> PEOPLE <hi>and Magistrates are thereby in some sort</hi> ABSOLVED <hi>from their</hi> ALLEGIANCE <hi>and Obe<g ref="char:EOLhyphen"/>dience.</hi>
+               </p>
+               <p>I leave now the PEOPLE to their choice: either to beleeve Mr. <hi>Prynne,</hi> That the Parliament cannot punish men CONTRARY to the Lawes: or NOT to beleeve him, That these Warres against our KING are lawfull.</p>
+               <p n="3">III. We are come to the Controversie. Whether the Highest Power be in the King or Parliament. If Mr. <hi>Prynne,</hi> who hath intituled all the foure parts of his Treatise in great characters, with the d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>termining of this question calling it the <hi>Soveraigne power of Parliaments over Kings:</hi> if now hee should let fall but one syllable, especially penne many sentences to <hi>assert the Kings power over the Parliament;</hi> some would suspect that <hi>Lethe</hi> or a <hi>Lethargie</hi> had given a sprink<g ref="char:EOLhyphen"/>ling to this <hi>Hellu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rorum,</hi> this hard Student. And it may be said of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im what <hi>Festus</hi> did of Saint <hi>Paul, That much learning hath made him mad.</hi> Let us examine whether any passages in Mr. <hi>Prynnes</hi> bookes look that way.</p>
+               <p>One maine motive that made the people beleeve the Parliaments absolute So<g ref="char:EOLhyphen"/>veraignty over Kings, was another firme opinion infused into them of the Par<g ref="char:EOLhyphen"/>liam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts Aeternitie and Infall bilitie: they are fully perswaded, that parliamen<g ref="char:EOLhyphen"/>tarie Conclusions are like the Lawes of the Medes and Persians, never to be alte<g ref="char:EOLhyphen"/>red: and that parliamenta ie Consultations doe indeed what the Pope pretends unto, <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Truth, and cannot erre.</hi> Mr. <hi>Prynne</hi> hath shaken these Articles of our popular Creed, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or he thus writeth.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Sover. part</hi> 1. p. 14. <hi>Part</hi> 3. p. 38.</note>
+                  <hi>The Parliament of Henry</hi> 4. <hi>Anno</hi> 1. <hi>reversed and annulled as illegall the Par<g ref="char:EOLhyphen"/>liament of Richard</hi> 2. <hi>with all the Acts, Circumstances, and Dependants.</hi> Wee thought that a Branch of a Statute might have beene repealed: but wee should as soone have beleeved a Totall Eclypse of the Sunne, as a Parliament to be To<g ref="char:EOLhyphen"/>tally Erronious. But here Mr. <hi>Prynne</hi> hath revived a president against the Par<g ref="char:EOLhyphen"/>liaments Absolute Wisedome: which may occasion some scruple against the Par<g ref="char:EOLhyphen"/>liaments Absolute power.</p>
+               <pb n="27" facs="tcp:159146:16"/>
+               <p>And Mr. <hi>Prynne</hi> seemeth somewhat to intrench on the Parliaments Absolute power, in another saying:<note place="margin">
+                     <hi>Part</hi> 1. p. 18</note>
+                  <hi>The Kings Authoritie is superiour to all other his greatest Officers, and subordinate Ministers of Iustice; because their power is by Patent, or Commission derived from his.</hi> May not we make this argument a <hi>Bi<g ref="char:EOLhyphen"/>aion</hi> inverted upon himselfe, and conclude from his owne premisses? But the Peeres have their power to meet in Parliament, derived from his authoritie: Therefore, the Kings authoritie is superiour to the Peeres and Commons met in Parliament.</p>
+               <p>But Mr. <hi>Pryn</hi> doth build the Soveraignty of Parliaments on <hi>Bracton,</hi> that fa<g ref="char:EOLhyphen"/>mous Lawyer: but if <hi>Bracton</hi> speake for the Soveraigntie of the King, even in those speeches which are quoted by Mr. <hi>Prynne</hi> out of <hi>Bracton,</hi> that will be dis<g ref="char:EOLhyphen"/>covered to be but a Sandie Foundation.</p>
+               <p>
+                  <hi>Bracton lib.</hi> 1. <hi>cap.</hi> 8. <hi>fol.</hi> 516. saith, <hi>That God, the Law, and his Court, to wit,</hi>
+                  <note place="margin">
+                     <hi>Sov. part</hi> 1. p. 19.</note>
+                  <hi>of Earles and Barons (in Parliament) are above the King, and ought to bridle him: and are thence called Comites, because they are the Kings Companions.</hi>
+               </p>
+               <p>I will not stay to untie this knot in <hi>Bracton:</hi> my travell is to the right end of my journey: to shew that <hi>Bractons</hi> judgement in plaine places, as they are ci<g ref="char:EOLhyphen"/>ted by Mr. <hi>Prynne,</hi> is for the Kings Soveraigntie. Yet note by the way. 1. A<g ref="char:EOLhyphen"/>BOVE the King; it may be he wrote this what they did then <hi>de facto,</hi> by u<g ref="char:EOLhyphen"/>surpation: for <hi>Bracton</hi> wrote (if I mistake not) in the time of <hi>Hen.</hi> 3. 2. The Earles and Barons were Above him: not the Commons: Mr. <hi>Prynne</hi> must alter the Title of his Treatise, and terme it according to <hi>Bracton,</hi> THE SOVE<g ref="char:EOLhyphen"/>RAIGNTY not of the PARLIAMENT, but of THE HOVSE OF PEERES. 3. Thence they are called <hi>Comites,</hi> because they are the Kings Companions: rather because they are Companions amongst themselves. For the other way <hi>loquuntur Rustice,</hi> they talke like Clownes, saith <hi>Bodine:</hi>
+                  <note place="margin">Bodin. de Rep. l. <hi>2.</hi> fol <hi>182.</hi>
+                  </note> and I know Mr. <hi>Prynne</hi> that worthie Gentleman will not use a Clownish dialect. 4. The Earles and Barons are the Kings Companions; <hi>Ergo,</hi> ABOVE him: it followeth not. 5. <hi>Bracton</hi> saith, as hee is cited by Mr. <hi>Prynne</hi> in the Margine, they were called <hi>Comites, a Comitatu &amp; Societate,</hi> because they were in his re<g ref="char:EOLhyphen"/>tinue, or (if you will) fellowship: this will not beare the inference, Therefore ABOVE him. As they might be called <hi>Consules a consulendo, quia Reges ta<g ref="char:EOLhyphen"/>les sibi associant ad consulendum,</hi> because the King did TAKE them to bee his Counsellers, or his Companions: Therefore, They were ABOVE the King.</p>
+               <p>But let us leave <hi>Bracton</hi> where hee speaketh obscurely, and proceed wee to <hi>Bracton</hi> speaking plainly to our purpose. <hi>Bracton</hi> saith, <hi>Leges ligant latorem suum:</hi> he saith, <hi>Latorem SVVM,</hi> he doth not say, <hi>Latores SVOS.</hi>
+                  <note place="margin">
+                     <hi>Mr. Prynne, part</hi> 1. p. 31.</note> So then the Legislative power is principally in HIM, not in THEM: and therefore The Soveraigne power is in the KING, not in the PARLIAMENT. This is firme in <hi>Bractons</hi> judgement, for he saith <hi>lib.</hi> 1. <hi>cap.</hi> 8.<note place="margin">
+                     <hi>Ib. part</hi> 2. p. 73</note>
+                  <hi>The King is the Foun<g ref="char:EOLhyphen"/>taine of Iustice:</hi> therefore that grand act of Justice, Legislation, is originally and principally, and (as I may say) fountainly in the King.<note place="margin">
+                     <hi>Part</hi> 1. p. 28</note> Wherefore the Sove<g ref="char:EOLhyphen"/>raigne power is in the Fountaine, in the King; not in the streames, in the Parlia<g ref="char:EOLhyphen"/>ment. To conclude: indeed to conclude our Cause out of his owne mouth. <hi>Bra<g ref="char:EOLhyphen"/>cton</hi> saith, the King is Gods and Christs Vicar upon earth. My Argument.</p>
+               <p>
+                  <hi>The Parliament is not Soveraigne to the Vicar of God, and of Christ.</hi>
+               </p>
+               <pb n="28" facs="tcp:159146:17"/>
+               <p>
+                  <hi>But our King is the Vicar of God, and of Christ,</hi> saith Mr. <hi>Prynne</hi> out of <hi>Bracton.</hi>
+               </p>
+               <p>Our Inference. Therefore, <hi>the Parliament is not Soveraigne to our King.</hi>
+               </p>
+               <p>Our Subinference. Therefore <hi>Mr. Prynne hath yeelded the cause.</hi>
+               </p>
+               <p>It is the wonderfull providence of God, that Truth should extort the unwil<g ref="char:EOLhyphen"/>ling confession thereof more than once, from the mouth of the most obstinate opposer of it. Mr. <hi>Prynne</hi> must still bee my instance. Others who invade his Majesties Soveraignty are more moderate and modest. They say there are <hi>three Estates in the Parliament;</hi> and conceit these to be co-ordinate. So they pretend but onely an Aequality: but Mr. <hi>Prynne</hi> doth challenge a Superioritie, with an unparallel'd presumption. They say of Soveraigntie what the Harlot did before <hi>Salom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> of the Childe,<note place="margin">1 King 3.26. Josh. 10.24.</note>
+                  <hi>Neither mine nor thine, but divide it.</hi> But he saith of our Soveraigne, what triumphing <hi>Iosua</hi> did of the five Kings of Canaan, <hi>Come, O ye Captaines, and set y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur feet on the necke of this King.</hi> Here I put the Quaere: if this devout man in his discreet Writings, doth deny our King to be ONE of these Three Estates of our Parliament; and if he doth declare that he is Superi<g ref="char:EOLhyphen"/>our to All of them: will not then Mr. <hi>Prynne</hi> overthrow their opinion? and will not his owne fall together with theirs? And will not Mr. <hi>Prynne</hi> appeare to be a Betrayer of that Cause, whereof he doth vaunt himselfe to bee so Invincible a Champion?</p>
+               <p>
+                  <note place="margin">
+                     <hi>Sov. Parl. part</hi> 2 p. 47.</note>
+                  <hi>Iohn Chauncon</hi> Treasurer, and many other Officers, were complained of by the <hi>Three Estates of France</hi> assembled in Parliament, for misguiding the King: the King besides the Three Estates. This place is plaine enough, and full enough. To proceed to a president that speaketh yet more plainly and fully for our cause. King <hi>Iohn</hi> of France by the authoritie of THE THREE ESTATES assem<g ref="char:EOLhyphen"/>bled in Parliament (<hi>viz.</hi> of the Spirituall Lords,<note place="margin">
+                     <hi>Append.</hi> p. 23 24.</note> Nobles, and Heads of Cities) received 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>00. men: he being taken prisoner, <hi>Charles</hi> his eldest sonne assem<g ref="char:EOLhyphen"/>bled THE THREE ESTATES— they denying his demands concerning the ransoming of his Father: <hi>The Duke dissolved the Parliament of the THREE ESTATES.</hi>
+               </p>
+               <p>Here it may be objected: these are presidents of the Kings of France; what concerne they our Kings of England? Very much. 1. The Kingdome of Eng<g ref="char:EOLhyphen"/>land is a Monarchie as well as the Kingdome of France. 2. If French presidents be alledged by Mr. <hi>Prynne</hi> against our King; then French presidents may bee al<g ref="char:EOLhyphen"/>ledged out of M. <hi>Prynne</hi> for our King. Howbeit Mr. <hi>Prynne</hi> will supply our cause with sufficient English presidents too.</p>
+               <p>
+                  <note place="margin">
+                     <hi>part</hi> 2. p. 59, 60, 62, 63.</note>
+                  <hi>Anno</hi> 11. <hi>Henr.</hi> 4. the Commons in Parliament petitioned to the King, that it would please the King in the presence of All the Estates in Parliament, to command the Justices to doe full Justice. Againe, the Queene mothers dower was appointed and sworne to by all the three Estates of Parliament, 9. <hi>Henr.</hi> 5. And againe, in the Parliament 4. <hi>Henr.</hi> 6. <hi>the Earle of Warwicke was appointed Governour to the young King, by the consent of the</hi> THREE ESTATES <hi>of England.</hi>
+               </p>
+               <p>Thus it appeareth that there are <hi>Three Estates</hi> in our Parliament, besides the King. It will be also apparent that the King is Superiour to those <hi>Three Estates</hi> by testimonies out of the same Writings. For first, the Parliament gave to
+<pb n="29" facs="tcp:159146:17"/>
+                  <hi>Rich.</hi> 2. this title, <hi>Our LORD the King:</hi>
+                  <note place="margin">Sov. Parl. par <hi>4. p. 11.</hi> Opening the Seale, <hi>p. 16.</hi>
+                  </note> a phrase not befitting persons inve<g ref="char:EOLhyphen"/>sted with the Soveraigne power. Next, it is the testimony of M. <hi>Prynne,</hi> even of M. <hi>Prynnes</hi> own self, <hi>The King is the Head or Supreme Governour of the Body of this Realm.</hi> Now, how the <hi>Body</hi> should be above the <hi>Head,</hi> the Realme should <hi>govern</hi> the <hi>Governour,</hi> and the <hi>Parliament</hi> have <hi>Soveraignty</hi> over the <hi>Su<g ref="char:EOLhyphen"/>preme; Oedipo opus est:</hi> Gentle <hi>M. Prynne</hi> read this Riddle.</p>
+               <p n="4">IV. There yet remaineth the Cause it selfe we are now to dispute of, <hi>Our ci<g ref="char:EOLhyphen"/>vill Warre:</hi> Whereto no mean men plead, that <hi>M. Prynne</hi> is the main man who perswadeth them. It is most certain, that this most learned man hath penned a whole book on this Theame: whence he doth dedicate it, his third Booke, to three worthy Warriours, under this Title: <hi>The Lawfulnesse of this Warre, both in point of Law and Conscience.</hi> Notwithstanding if we shall find that <hi>M. Prynne</hi> doth infirm in some particular passages, what he doth affirm through his whole Book, then sober (especially sanctified) men will advise with themselves a lit<g ref="char:EOLhyphen"/>tle, before they be led by him into a way of blood, who doth lose his own way so shamefully.</p>
+               <p>The Discouragers of the Incouragers to our Civill Warres, are no fast friends to the Cause. Now our Lecturers are the prime Trumpeters to sound out an Alarum both in City and Countrey. But none on earth (except the Demon<g ref="char:EOLhyphen"/>strators of Damnation to Rebels) can more terrifie the well-affected from prea<g ref="char:EOLhyphen"/>ching such Sermons, then <hi>M. Prynne</hi> himself,<note place="margin">
+                     <hi>Sov. Parl. part</hi> 3. p. 137,</note> who in one page doth tell them of five Statutes, clearly condemning all those of high Treason, who shall preach unto the people to beare Armes against the KING.</p>
+               <p>But these civill Warres have received the very life of encouragement from the City of London; which hath been both the Midwife and Nurse unto them. Yet <hi>M. Prynne</hi> doth tell them a tale, able to put a <hi>remora</hi> into the thoughts of the most resolute Londiners, imbarqued for this voyage of bloud. <hi>Henry</hi> 4. King of France raising his siege before Paris, returned to Arques:<note place="margin">
+                     <hi>part</hi> 4 p. 41.</note> the Leaguers Ar<g ref="char:EOLhyphen"/>my followed him, where they were defeated. The King with a small Army gaines many great conquests, which amaze the Leaguers. He besiegeth Paris a<g ref="char:EOLhyphen"/>gaine three moneths, where 100000. died of famine: yet they force the Parlia<g ref="char:EOLhyphen"/>ment to make a Decree, 15. Jun. 1590. forbidding upon paine of Death to speak of any Composition, but to oppose themselves by all meanes, yea with the effu<g ref="char:EOLhyphen"/>sion of their bloud. Their City to be besieged, their succours in the Countrey to be defeated, the Parliament to be forced, all Peace to be abjured and 100000. to be famish d! My Prayer is, that none may ever write so much of London, as M. <hi>Prynne</hi> doth hereof Paris.</p>
+               <p>A third Incouragement, second to none, which prevaileth with many simple souls whom their leaders carried into this action in the simplicity of their hearts, was the solemne universall Protestation, that, that Army marched only against Delinquents and evill Counsellours, but their intents were most reall and loyall, to <hi>Preserve the Person of the Kings sacred Najesty.</hi>
+               </p>
+               <p>But M. <hi>Prynne</hi> hath penned two such Presidents! Indeed they are related be<g ref="char:EOLhyphen"/>fore, but they must be repeated here, because they will make the eare to tingle, and the heart of the man to tremble, who shall hearken to them, as to the proba<g ref="char:EOLhyphen"/>ble Prognostications of our horrid civill Warres: especially as M. <hi>Prynne</hi> doth
+<pb n="30" facs="tcp:159146:18"/> usher them in with a strange Encomiasticall Parenthesis; <hi>quod credat Iudeus. The purpose of the present Parliament.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>Sov. part</hi> 1. p. 9 10, 11, 12, 13▪ 14.</note>The Lords raised an Armie, and marched towards Newcastle, <hi>Not to offer in<g ref="char:EOLhyphen"/>jurie to the King, but that they might apprehend</hi> Piers Gaveston, <hi>&amp;c.</hi> After<g ref="char:EOLhyphen"/>wards the Londoners send word to the King, <hi>Edward</hi> the second, <hi>That they</hi> HONOUR <hi>the</hi> KING, <hi>but</hi> RESIST TRAITORS. The Lords pursued the King to Bristol,<note place="margin">Vide supra.</note> where <hi>Spencer</hi> was <hi>hang'd without a tryall of law.</hi> The King was taken prisone, was forced to <hi>resigne his Crowne,</hi> and soone after hee was <hi>murthered</hi> in Barkly Castle. King <hi>Richard</hi> the second raised an Armie against the Barons, many of which answered that they would not stand against the Lords whom they knew for certaine <hi>intimately to love the King, and to endea<g ref="char:EOLhyphen"/>vour all things, and to doe all things, and to study all things for his Honour.</hi> The Lords being demanded by the King, <hi>Why they assembled in a warlike manner, contary to the Law?</hi> They answered, they were so assembled, <hi>For the good of the King and Kingdome, and to weed Traytors from about him.</hi> After the Nobles sent the King word, <hi>If he would not come to Westminster, they would chuse another King who should obey the counsell of the Peeres.</hi> The King being come, the No<g ref="char:EOLhyphen"/>bles said, <hi>For his Honour, and for the benefit of the Kingdome, they would banish out of his Court Traytors &amp;c. and substitute such as should serve him more faith<g ref="char:EOLhyphen"/>fully. So they imprisoned the Archbishop of Yorke, the Bishop of Durham, other Nobles, the Iudge, and cut the throat of the Chiefe Iustice, and the Duke of Lan<g ref="char:EOLhyphen"/>caster caused in the end the King to be deposed.</hi> If any Loyall Subjects touched with these barbarous effects of Civill Warre, doe not take up, or will lay downe Armes against the King, for feare of Danger to his Royall Person; then are all the sonnes of Peace beholding to Mr. <hi>Prynne</hi> for this sad Relation.</p>
+               <p>All Warre is just or unjust, according to the Cause. Those that keepe a War on foot, by keeping a bad Cause in their hand, must answer to the Justice of God for their injustice to man. The great cause of our grievous Civill Warre, is a difference about putting the Kingdome into a Posture of Warre; whether it be<g ref="char:EOLhyphen"/>longeth to the King, or to the Parliament: the Parliament calleth it the Militia, the King the Array.</p>
+               <p>Concerning the Militia, divers devout and discreet persons, out of their high estimation of the high Court of Parliament, hearing their Ordinances, and seeing their practice, tooke it for granted, that it had beene their propertie, and nothing belonging to the King. But Mr. <hi>Prynne</hi> may unsettle many of this opinion; for he teacheth that</p>
+               <p>
+                  <hi>On the Kings part it is irrefragable.</hi>
+               </p>
+               <p n="1">
+                  <note place="margin">
+                     <hi>Sov. part</hi> 2. p. 3</note>1. That the Kings of England have usually enjoyed the chiefe Ministeriall ordering of the Militia.</p>
+               <p n="2">2. That it is not onely Expedient, but in some sort Necessary, that this chief ministeriall Command of the Militia, Forts, and Navie, should constantly con<g ref="char:EOLhyphen"/>tinue to the Crowne.</p>
+               <p>Vnlesse it be in some speciall cases, as when the King is an Infant, unable, or unwilling to discharge that trust; or intends to imploy that power to infringe the subjects Libertie, or to erect a Tyrannie.</p>
+               <p n="3">3. It is not meet to deprive his Majestie of this part of his Soveraigntie at
+<pb n="31" facs="tcp:159146:18"/> this present, but onely to recommend unto him men of trust to mannage the <hi>Militia.</hi>
+               </p>
+               <p>Now many good men have a good confidence, that if His Majesty might in<g ref="char:EOLhyphen"/>joy the <hi>Militia,</hi> even as M. <hi>Prynne</hi> doth here circumscribe and circumcise it, by his own qualifications (excepting his Exceptions, which loyall subjects dare not admit into their thoughts of their King, least their Conscience should accuse them for <hi>man of Belial,</hi> as the <hi>men of Belial</hi> did <hi>Naboth,</hi> for <hi>blaspheming God and the King</hi>) that there would be a speedy end of our (otherwise, we fear) end<g ref="char:EOLhyphen"/>lesse <hi>Civill Warre.</hi>
+                  <note place="margin">1 King. 20.10</note>
+               </p>
+               <p>The <hi>Array</hi> is in this age a word uncouth, and unheard of to English eares: and some suspect it to have been an Innovation brought in by His Majesty: but <hi>M. Prynne</hi> doth cite a clause out of an ancient Record, which maketh it cleer for the <hi>King,</hi> beyond contradiction: the words of it, and of him, are these.</p>
+               <p>JOHANNES REX, &amp;c. <hi>Summone omnes liberos homines, &amp; servientes,</hi>
+                  <note place="margin">Remonstr. of Ship-money, pag. <hi>28.</hi>
+                  </note>
+                  <hi>vel qui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unque sint, vel de qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cunque teneant, qui arma tenere debeant, vel arma te<g ref="char:EOLhyphen"/>nere possint, &amp; qui homagium nobis, vel ligantiam fecerunt; quod sicut Nos, &amp; scipsos, &amp; omnia sua diligunt, sint apud Doveram ad instans clausum Paschae, bene parati cum equis &amp; armis, &amp; cum toto Posse suo; ad defendendum caput nostrum, &amp; capita sua, &amp; terram Angliae. Et quod nullus remaneat, qui arma portare possit, sub nomine Cultervagii, &amp; perpetuae Servitutis; &amp; unusquisque sequa<g ref="char:EOLhyphen"/>tur Dominum suum, &amp; qui terram non habeant, &amp; arma habere non possint, illi veniant ad capiendum Solidatas nostras.</hi> Now whether <hi>M. Prynne</hi> who doth <hi>plead against</hi> the <hi>Cause,</hi> the <hi>Militia;</hi> be a fit <hi>pleader</hi> for the <hi>Effect, civill War:</hi> I remit to the heads and hearts of understanding and conscionable men to judge.</p>
+               <p>To proceed: <hi>Prynnum propriis pennis percellam,</hi>
+                  <note place="margin">Append. p. <hi>170</hi>
+                  </note> I will retort <hi>M. Prynnes</hi> own Arguments against his own Cause. <hi>Kings are obliged by an Oath at their Coronation, to preserve their Peoples Lawes, Liberties, Lives and Estates.</hi>
+               </p>
+               <p>Vpon his grounds I build our Arguments, thus:</p>
+               <p>
+                  <hi>That warne which a King maketh to preserve the Lawes, lives, liberties and estates of his Subjects, according to his Oath, is lawfull:</hi>
+               </p>
+               <p>
+                  <hi>But this War that is made by our King is to preserve the Lawes, lives, liber<g ref="char:EOLhyphen"/>ties, and estates of his subjects according to his Oath.</hi>
+               </p>
+               <p>Ergo, <hi>This warre by our King is lawfull.</hi>
+               </p>
+               <p>The <hi>Major</hi> is consented to by all.</p>
+               <p>The <hi>Minor:</hi> for the first branch <hi>(The King is obliged by oath to preserve, &amp;c.)</hi> is <hi>M. Prynnes.</hi>
+               </p>
+               <p>The remnant, thousands of his Majesties poor Subjects (who are in prison, or outed of their estates,<note place="margin">Sov. Parl. part <hi>3.</hi> p. <hi>73.</hi>
+                  </note> and debarred a course of Law for either) doe a vouch by wofull experience. There is one Argument (saith <hi>M. Prynne</hi>) which will satis<g ref="char:EOLhyphen"/>fie the most scrupulous malignant opposites conscience. Here is confidence e<g ref="char:EOLhyphen"/>nough: I will be as confident as he: we will joyne issue with him, and put the Cause upon this Argument: and thus it is.</p>
+               <p>
+                  <hi>That resistance which is commanded by the supremest Power is infallibly lawfull.</hi>
+               </p>
+               <p>
+                  <hi>But this resistance is commanded by the two Houses, the power Paramont to the King, who is the Parliament royall Servant.</hi>
+               </p>
+               <p>Ergo, <hi>This resistance is infallibly lawfull.</hi>
+               </p>
+               <pb n="32" facs="tcp:159146:19"/>
+               <p>Answer to the first Proposition: we concurre with M. <hi>Prynne.</hi>
+               </p>
+               <p>To the second. If <hi>M. Prynne</hi> can prove, <hi>That the King is but a servant to the two Houses,</hi> we will yeeld him <hi>Our Cause,</hi> and our <hi>King his Crown.</hi>
+               </p>
+               <p>Yet he must do one thing before we do either of these.</p>
+               <p>Let <hi>M. Prynne</hi> review his writings; if he will, but this, and some other passages: and I affirme it <hi>Cum bono Deo,</hi> unlesse he forsake his own Argument, or flee his own words, he shall not escape that evidence of truth which shall in<g ref="char:EOLhyphen"/>force him to <hi>yeeld the Cause.</hi>
+               </p>
+               <p>
+                  <hi>That warre which is commanded by the supremest Power is infallibly lawfull:</hi>
+               </p>
+               <p>
+                  <hi>But this warre for the King is commanded by the Power Paramount to the two Houses:</hi> viz. <hi>By the King:</hi>
+               </p>
+               <p>Ergo, <hi>This warre for the King is infallibly lawfull.</hi>
+               </p>
+               <p>The first proposition is Mr. <hi>Prynnes</hi> owne words in this place.</p>
+               <p>The second is Mr. <hi>Prynnes</hi> owne words in other places.</p>
+               <p>
+                  <note place="margin">Sov. Parl. part <hi>1.</hi> p. <hi>31.</hi> part <hi>2.</hi> p. <hi>73.</hi> part <hi>1.</hi> p. <hi>28.</hi> part <hi>2.</hi> p. <hi>11.</hi> Opening the Seal, p. <hi>16.</hi> Sov. Parl. part <hi>2.</hi> p. <hi>3.</hi>
+                  </note>Sum we up Mr. <hi>Prynnes</hi> sayings to this to our purpose.</p>
+               <p>Inprimis, Mr. <hi>Prynne</hi> saith out of <hi>Bracton,</hi> (and what hee doth thence tran<g ref="char:EOLhyphen"/>scribe, he doth also subscribe to) <hi>The King is Legislator;</hi> and againe, <hi>The King is Fons justitiae;</hi> and againe, <hi>The King is Gods, and Christs Vicar upon earth.</hi>
+               </p>
+               <p>Item, Mr. <hi>Prynne</hi> saith out of an Act of Parliament, the Parliament stiled the <hi>King Their Lord.</hi>
+               </p>
+               <p>Item, Mr. <hi>Prynne</hi> saith in his owne words, <hi>The King is the Head of the Body of this Realme.</hi>
+               </p>
+               <p>Item, <hi>The King hath the Supreme Government.</hi>
+               </p>
+               <p>Item, <hi>The King hath the Soveraignty of the Militia.</hi>
+               </p>
+               <p>
+                  <hi>Summa totalis. Ergo,</hi> If Mr. <hi>Prynne</hi> hath as much faith as he hath forehead, he must <hi>yeeld the Cause: That the Warre by the King is infallibly lawfull:</hi> and the contrary War is the contrary.</p>
+               <p>Finally, Mr. <hi>Prynne</hi> doth furnish us with Solutions to untwist one strong Ob<g ref="char:EOLhyphen"/>jection, which doth knit many mens affections to these Warres, especially De<g ref="char:EOLhyphen"/>fensive. What, say some, if the King turne Tyrant, or make tyrannicall attempts upon our Lives, Liberties, Lawes, Estates, Religion, must we sit still, see our selves ruined, and have no way to relieve us?</p>
+               <p>Yes! Mr. <hi>Prynne</hi> doth instruct us that we have a way. Indeed not a way of Hostility,<note place="margin">part <hi>3.</hi> p. <hi>73.</hi> Opening the Seale, p. <hi>16.</hi>
+                  </note> but a way of Policie and Christianitie. We may not resist in a Hostile way, but by the command of the Supreme Power: and our King is our Supreme Governour. As Mr. <hi>Prynne</hi> hath already sufficiently instructed us in both these propositions.</p>
+               <p>First, we may seeke reliefe in our dangers and oppressions in the way of po<g ref="char:EOLhyphen"/>licy either by Petition, or by Parliament. We may either pray the Kings mercy for Gods Justice;<note place="margin">Ibid. part <hi>2.</hi> p. <hi>78.</hi> Append. p. <hi>24.</hi>
+                  </note> or if the King will not give us his protection, wee may pray the Parliament not to give him our Subsidies. Concerning both which Mr. <hi>Pry<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> doth fit us with presidents. <hi>Isabel</hi> Countesse of Arundel, upon a repulse, said un<g ref="char:EOLhyphen"/>to <hi>Henry</hi> the third; I, though a woman, and with me a loyall people of the land, Appeale you to the High Tribunall of the high Judge above, and heaven and earth shall be witnesse that you have dealt unjustly. And when <hi>Iohn</hi> King of France required a Ransome; the Estates firmly answered, that unlesse he would
+<pb n="33" facs="tcp:159146:19"/> reforme the said faults, and confirme the said Articles, they would not aid him with their goods.</p>
+               <p>Secondly, the other way is a straight way, and that men must strive who will walke in it the way of Martyrdome,<note place="margin">Sov. Parl. part <hi>3.</hi> p. <hi>71.</hi>
+                  </note> whereof Mr. <hi>Prynne</hi> doth relate a most Christian example. I read (writes Mr. <hi>Prynne</hi>) of Saint <hi>Andrew,</hi> that when people ran to rescue him from death, he teaching them both by word and example, exhorted them not to hinder his Martyrdome.</p>
+               <p>Now, Mr. <hi>Prynne,</hi> let mee conferre with your Conscience in the presence of God Almighty. When you returned to London with your popular Applause; which some lookt upon as a prognosticall Prologue to something like our Tragi<g ref="char:EOLhyphen"/>call Warre. If you had beene a most Innocent Saint; yet if you had expected that the King would then have cut off your Head, as before that he had cut off some other parts of your Bodie: if then, I say, you had done what St. <hi>Andrew</hi> did; if you had then taught the people both by word and example, exhorting, Not to hinder your Martyrdome: would this have brought any prejudice to your reputation on earth, or to your salvation in heaven?</p>
+               <p>Since therefore that Mr. <hi>Prynne,</hi> after he hath so magnified his own writings, and so vilified other Writers, who will be famous in the generations to come; since that hee himselfe is now traced through all his Treatises, to have falne so foully, by False Quotations, and calumnious Falshoods; by wresting the Scrip<g ref="char:EOLhyphen"/>tures, and points of Popery; by grosse Absurdities, and absurd Contradictions; by plain passages of palpable Treason; and finally by betraying that Cause which he so <hi>Thraso</hi>-like boasted to propugn: If any hearing this, shall be seduced into these Bloudy Warres: I will not say, <hi>The Blinde lead the Blinde;</hi> but the Obstinate accompany the Obstinate; and both will <hi>fall into the Ditch:</hi> and Deeper. From which, and from CIVILL WARRE!</p>
+            </div>
+            <closer>GOOD LORD DELIVER VS. <hi>Amen. Amen.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
